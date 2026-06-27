@@ -1,57 +1,64 @@
 Driver,Owner,Primary_Sponsor,Avg_Finish,Best_Finish,Finish_StdDev,Races_Started,Total_Laps_Led,Avg_Laps_Led_Per_Race,Races_Completed,Top_5_Finishes,Top_10_Finishes,Wins,Top_5_Rate,Top_10_Rate
-A.J. Allmendinger,Matthew Kaulig,Other/Unknown,19.7,5,9.69,23,11,0.48,17,1,5,0,4.3,21.7
-Alex Bowman,Rick Hendrick,Other/Unknown,19.16,2,12.53,19,62,3.26,16,3,7,0,15.8,36.8
+A.J. Allmendinger,Matthew Kaulig,Other/Unknown,20.75,4,10.11,53,51,0.96,36,3,10,0,5.7,18.9
+Alex Bowman,Rick Hendrick,Other/Unknown,19.04,2,12.23,49,165,3.37,36,8,18,0,16.3,36.7
+Anthony Alfredo,Beard Motorsports,Other/Unknown,24.5,21,4.95,2,21,10.5,2,0,0,0,0.0,0.0
 Anthony Alfredo,Rick Hendrick,Other/Unknown,33.0,33,,1,0,0.0,1,0,0,0,0.0,0.0
-Austin Cindric,Team Penske,Other/Unknown,18.87,5,9.99,23,186,8.09,17,1,6,0,4.3,26.1
-Austin Dillon,Richard Childress,Other/Unknown,22.0,6,8.48,23,5,0.22,17,0,1,0,0.0,4.3
-Austin Hill,Richard Childress,cheddar's Scratch Kitchen,26.0,18,6.78,7,1,0.14,7,0,0,0,0.0,0.0
-B.J. Mcleod,B.J. McLeod,Other/Unknown,32.67,22,9.71,3,1,0.33,2,0,0,0,0.0,0.0
-Brad Keselowski,Jack Roush,Castrol,20.91,2,11.4,23,160,6.96,17,2,4,0,8.7,17.4
-Bubba Wallace,23XI Racing,Other/Unknown,17.48,2,11.89,23,198,8.61,17,4,10,0,17.4,43.5
-Carson Hocevar,Spire Motorsports,Other/Unknown,17.39,1,11.06,23,105,4.57,17,5,8,1,21.7,34.8
+Austin Cindric,Team Penske,Other/Unknown,20.38,1,10.4,53,352,6.64,36,3,9,1,5.7,17.0
+Austin Dillon,Richard Childress,Other/Unknown,21.21,1,8.37,53,124,2.34,36,1,6,1,1.9,11.3
+Austin Hill,Richard Childress,cheddar's Scratch Kitchen,24.92,9,7.44,12,1,0.08,12,0,1,0,0.0,8.3
+B.J. Mcleod,B.J. McLeod,Other/Unknown,29.57,16,8.38,7,1,0.14,6,0,0,0,0.0,0.0
+Brad Keselowski,Jack Roush,Castrol,18.81,2,11.54,53,382,7.21,36,8,17,0,15.1,32.1
+Bubba Wallace,23XI Racing,Other/Unknown,17.92,1,12.01,53,478,9.02,36,9,22,1,17.0,41.5
+Burt Myers,Team AmeriVet,Other/Unknown,36.0,36,,1,0,0.0,1,0,0,0,0.0,0.0
+Carson Hocevar,Spire Motorsports,Other/Unknown,19.42,1,11.05,53,222,4.19,36,6,16,1,11.3,30.2
 Casey Mears,Beard Motorsports,Other/Unknown,36.0,36,,1,0,0.0,1,0,0,0,0.0,0.0
-Casey Mears,Carl Long,Other/Unknown,32.0,32,,1,0,0.0,1,0,0,0,0.0,0.0
-Chad Finchum,Carl Long,Other/Unknown,31.25,28,3.95,4,8,2.0,4,0,0,0,0.0,0.0
-Chase Briscoe,Joe Gibbs,Other/Unknown,16.57,2,12.49,23,130,5.65,17,7,9,0,30.4,39.1
-Chase Elliott,Rick Hendrick,Other/Unknown,12.96,1,9.76,23,277,12.04,17,6,11,2,26.1,47.8
-Chris Buescher,Jack Roush,Other/Unknown,12.52,2,8.38,23,75,3.26,17,3,13,0,13.0,56.5
-Christopher Bell,Joe Gibbs,Other/Unknown,16.91,1,13.39,23,530,23.04,17,8,9,3,34.8,39.1
-Cody Ware,Rick Ware,Other/Unknown,29.04,17,5.81,23,3,0.13,17,0,0,0,0.0,0.0
-Cole Custer,Gene Haas,Other/Unknown,26.39,12,6.78,23,1,0.04,17,0,0,0,0.0,0.0
-Connor Zilisch,Trackhouse Racing,Other/Unknown,28.72,14,7.91,18,8,0.44,17,0,0,0,0.0,0.0
-Corey Heim,23XI Racing,Other/Unknown,19.83,1,10.93,6,80,13.33,6,1,1,1,16.7,16.7
-Corey Lajoie,Rick Ware,Other/Unknown,30.0,22,11.31,2,10,5.0,2,0,0,0,0.0,0.0
+Casey Mears,Carl Long,Other/Unknown,30.5,18,6.6,6,0,0.0,6,0,0,0,0.0,0.0
+Chad Finchum,Carl Long,Other/Unknown,33.14,28,3.72,7,8,1.14,5,0,0,0,0.0,0.0
+Chase Briscoe,Joe Gibbs,Other/Unknown,14.0,1,11.61,53,1005,18.96,36,20,26,3,37.7,49.1
+Chase Elliott,Rick Hendrick,Other/Unknown,12.74,1,10.23,53,729,13.75,36,16,27,4,30.2,50.9
+Chris Buescher,Jack Roush,Other/Unknown,13.83,2,8.63,53,122,2.3,36,7,25,0,13.2,47.2
+Christopher Bell,Joe Gibbs,Other/Unknown,13.53,1,11.52,53,698,13.17,36,18,28,4,34.0,52.8
+Cody Ware,Rick Ware,Other/Unknown,29.79,13,5.4,53,34,0.64,36,0,0,0,0.0,0.0
+Cole Custer,Gene Haas,Other/Unknown,24.34,4,7.59,53,11,0.21,36,2,3,0,3.8,5.7
+Connor Zilisch,Trackhouse Racing,Other/Unknown,27.55,11,8.53,20,8,0.4,18,0,0,0,0.0,0.0
+Corey Heim,23XI Racing,Other/Unknown,20.4,1,11.6,10,80,8.0,9,1,2,1,10.0,20.0
+Corey Lajoie,Rick Ware,Other/Unknown,33.25,22,7.8,4,10,2.5,4,0,0,0,0.0,0.0
 Daniel Dye,B.J. McLeod,Other/Unknown,26.5,24,3.54,2,0,0.0,2,0,0,0,0.0,0.0
-Daniel Suarez,Spire Motorsports,Other/Unknown,13.65,1,7.57,17,38,2.24,17,3,6,1,17.6,35.3
-Daniel Suarez,Trackhouse Racing,Other/Unknown,21.5,2,12.63,6,12,2.0,6,3,6,1,50.0,100.0
-Denny Hamlin,Joe Gibbs,FedEx,9.65,1,8.88,23,848,36.87,17,11,14,4,47.8,60.9
-Erik Jones,Legacy Motor Club,Other/Unknown,18.35,2,7.99,23,18,0.78,17,1,4,0,4.3,17.4
+Daniel Suarez,Spire Motorsports,Other/Unknown,13.65,1,7.57,17,38,2.24,17,4,12,1,23.5,70.6
+Daniel Suarez,Trackhouse Racing,Other/Unknown,20.89,2,10.5,36,35,0.97,36,4,12,1,11.1,33.3
+David Starr,Carl Long,Other/Unknown,29.0,29,,1,0,0.0,1,0,0,0,0.0,0.0
+Denny Hamlin,Joe Gibbs,FedEx,12.08,1,11.37,52,1848,35.54,36,23,29,10,44.2,55.8
+Erik Jones,Legacy Motor Club,Other/Unknown,19.21,2,9.24,53,28,0.53,36,5,9,0,9.4,17.0
 Helio Castroneves,Trackhouse Racing,Other/Unknown,39.0,39,,1,0,0.0,1,0,0,0,0.0,0.0
-Jesse Love,Richard Childress,Other/Unknown,27.0,27,0.0,2,0,0.0,2,0,0,0,0.0,0.0
-Jimmie Johnson,Legacy Motor Club,Other/Unknown,20.0,3,14.73,3,0,0.0,2,1,1,0,33.3,33.3
-Joey Logano,Team Penske,Other/Unknown,20.13,3,11.93,23,362,15.74,17,2,5,0,8.7,21.7
-John H. Nemechek,Legacy Motor Club,Other/Unknown,19.65,4,7.59,23,61,2.65,17,2,4,0,8.7,17.4
-Josh Berry,Wood Brothers,Other/Unknown,24.48,1,10.52,23,91,3.96,17,2,4,1,8.7,17.4
-Josh Bilicki,Carl Long,Other/Unknown,34.0,34,,1,0,0.0,1,0,0,0,0.0,0.0
+Jesse Love,Beard Motorsports,Other/Unknown,27.5,24,4.95,2,0,0.0,2,0,0,0,0.0,0.0
+Jesse Love,Richard Childress,Other/Unknown,29.4,27,2.61,5,0,0.0,5,0,0,0,0.0,0.0
+Jimmie Johnson,Legacy Motor Club,Other/Unknown,25.0,3,15.64,4,0,0.0,3,1,1,0,25.0,25.0
+Joey Gase,Carl Long,Other/Unknown,37.0,37,,1,0,0.0,1,0,0,0,0.0,0.0
+Joey Logano,Team Penske,Other/Unknown,17.02,1,11.11,53,692,13.06,36,9,18,1,17.0,34.0
+John H. Nemechek,Legacy Motor Club,Other/Unknown,20.55,4,8.92,53,98,1.85,36,3,10,0,5.7,18.9
+Josh Berry,Wood Brothers,Other/Unknown,23.26,1,11.11,53,222,4.19,36,3,10,1,5.7,18.9
+Josh Bilicki,Carl Long,Other/Unknown,32.86,21,5.76,7,0,0.0,7,0,0,0,0.0,0.0
 Justin Allgaier,JR Motorsports,Other/Unknown,23.5,9,20.51,2,3,1.5,1,0,1,0,0.0,50.0
 Justin Allgaier,Rick Hendrick,Other/Unknown,23.67,22,1.53,3,0,0.0,3,0,1,0,0.0,33.3
-Justin Haley,Spire Motorsports,Other/Unknown,19.5,10,8.53,6,0,0.0,6,0,1,0,0.0,16.7
-Katherine Legge,B.J. McLeod,Other/Unknown,32.0,30,2.65,3,0,0.0,3,0,0,0,0.0,0.0
+Justin Haley,Spire Motorsports,Other/Unknown,22.22,3,8.14,36,20,0.56,36,1,2,0,2.8,5.6
+Katherine Legge,B.J. McLeod,Other/Unknown,29.11,17,6.62,9,0,0.0,9,0,0,0,0.0,0.0
 Kevin Magnussen,Trackhouse Racing,Other/Unknown,27.0,27,,1,0,0.0,1,0,0,0,0.0,0.0
-Kyle Busch,Richard Childress,Other/Unknown,19.83,5,10.21,18,77,4.28,12,1,5,0,5.6,27.8
-Kyle Larson,Rick Hendrick,Other/Unknown,13.7,1,12.78,23,700,30.43,17,10,14,1,43.5,60.9
-Michael Mcdowell,Spire Motorsports,Other/Unknown,18.22,2,8.33,23,36,1.57,17,2,4,0,8.7,17.4
-Noah Gragson,Bob Jenkins,Other/Unknown,24.35,8,8.36,23,4,0.17,17,0,2,0,0.0,8.7
-Ricky Stenhouse Jr,HYAK Motorsports,Other/Unknown,20.3,2,9.73,23,6,0.26,17,3,4,0,13.0,17.4
-Riley Herbst,23XI Racing,Other/Unknown,21.17,8,8.63,23,5,0.22,17,0,2,0,0.0,8.7
-Ross Chastain,Trackhouse Racing,Busch Light,19.61,3,11.25,23,99,4.3,17,2,6,0,8.7,26.1
-Ryan Blaney,Team Penske,Other/Unknown,14.17,1,11.35,23,458,19.91,17,4,14,1,17.4,60.9
-Ryan Preece,Jack Roush,Other/Unknown,17.91,3,9.49,23,74,3.22,17,1,4,0,4.3,17.4
-Shane Van Gisbergen,Trackhouse Racing,Other/Unknown,21.39,1,12.68,23,135,5.87,17,3,5,1,13.0,21.7
-Timmy Hill,Carl Long,Other/Unknown,36.5,36,0.71,2,0,0.0,2,0,0,0,0.0,0.0
-Todd Gilliland,Bob Jenkins,Love's Travel Stops,21.3,6,8.08,23,14,0.61,17,0,2,0,0.0,8.7
-Ty Dillon,Matthew Kaulig,Other/Unknown,24.48,12,7.69,23,6,0.26,17,0,0,0,0.0,0.0
-Ty Gibbs,Joe Gibbs,Other/Unknown,16.87,1,12.27,23,102,4.43,17,6,10,1,26.1,43.5
-Tyler Reddick,23XI Racing,Other/Unknown,9.39,1,9.55,23,471,20.48,17,12,15,5,52.2,65.2
-William Byron,Rick Hendrick,Other/Unknown,14.61,1,11.94,23,152,6.61,17,6,12,1,26.1,52.2
-Zane Smith,Bob Jenkins,Other/Unknown,19.61,4,11.2,23,65,2.83,17,2,7,0,8.7,30.4
+Kyle Busch,Richard Childress,Other/Unknown,18.65,5,9.11,48,107,2.23,36,3,12,0,6.2,25.0
+Kyle Larson,Rick Hendrick,Other/Unknown,13.62,1,12.94,53,1714,32.34,36,22,32,3,41.5,60.4
+Michael Mcdowell,Spire Motorsports,Other/Unknown,18.42,2,8.81,53,120,2.26,36,5,10,0,9.4,18.9
+Noah Gragson,Bob Jenkins,Other/Unknown,24.96,4,8.44,53,9,0.17,36,1,4,0,1.9,7.5
+Ricky Stenhouse Jr,HYAK Motorsports,Other/Unknown,22.4,2,9.37,53,14,0.26,36,3,6,0,5.7,11.3
+Riley Herbst,23XI Racing,Other/Unknown,24.47,8,7.9,53,7,0.13,36,0,2,0,0.0,3.8
+Ross Chastain,Trackhouse Racing,Busch Light,17.23,1,10.39,53,143,2.7,36,5,16,1,9.4,30.2
+Ryan Blaney,Team Penske,Other/Unknown,13.64,1,12.49,53,1162,21.92,36,18,31,5,34.0,58.5
+Ryan Preece,Jack Roush,Other/Unknown,16.36,3,9.28,53,164,3.09,36,3,16,0,5.7,30.2
+Ryan Truex,Joe Gibbs,Other/Unknown,23.0,23,,1,0,0.0,1,0,0,0,0.0,0.0
+Shane Van Gisbergen,Trackhouse Racing,Other/Unknown,20.55,1,11.77,53,422,7.96,36,8,11,6,15.1,20.8
+Timmy Hill,Carl Long,Other/Unknown,36.0,35,1.0,3,0,0.0,3,0,0,0,0.0,0.0
+Todd Gilliland,Bob Jenkins,Love's Travel Stops,20.96,2,8.63,53,30,0.57,36,1,6,0,1.9,11.3
+Ty Dillon,Matthew Kaulig,Other/Unknown,24.77,8,7.78,53,22,0.42,36,0,1,0,0.0,1.9
+Ty Gibbs,Joe Gibbs,Other/Unknown,16.55,1,10.86,53,406,7.66,36,11,20,1,20.8,37.7
+Tyler Reddick,23XI Racing,Other/Unknown,12.47,1,9.44,53,597,11.26,36,17,26,5,32.1,49.1
+Will Brown,Matthew Kaulig,Other/Unknown,39.0,39,,1,0,0.0,1,0,0,0,0.0,0.0
+William Byron,Rick Hendrick,Other/Unknown,15.23,1,11.9,53,1371,25.87,36,14,24,3,26.4,45.3
+Zane Smith,Bob Jenkins,Other/Unknown,20.58,3,10.29,53,84,1.58,36,3,11,0,5.7,20.8
