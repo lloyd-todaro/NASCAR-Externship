@@ -1,22 +1,12 @@
-sponsor,url,title,domain,seendate,source_method
-Progressive,https://speedwaymedia.com/2025/02/20/arbys-joins-rick-ware-racing-as-a-primary-partner-across-its-nascar-and-nhra-teams/,,speedwaymedia.com,20250220230000,bq_candidate_scrape
-Progressive,https://speedwaymedia.com/2025/02/10/a-tale-of-two-strategies-for-rick-ware-racing-at-daytona/,,speedwaymedia.com,20250210211500,bq_candidate_scrape
-Progressive,https://www.autoweek.com/racing/nascar/a64096286/racing-addict-rick-ware-making-waves-nascar-nhra/,,autoweek.com,20250308030000,bq_candidate_scrape
-Progressive,https://www.motorsport.com/nascar-cup/news/hamlin-domination-and-no-respect-winners-and-losers-from-martinsville/10708644/,,motorsport.com,20250331223000,bq_candidate_scrape
-Progressive,https://www.motorsport.com/nascar-truck/news/kyle-larson-recovers-from-spin-to-win-homestead-truck-race-in-stunning-comeback/10705786/,,motorsport.com,20250322031500,bq_candidate_scrape
-Progressive,https://www.motorsport.com/nascar-cup/news/denny-hamlin-wins-martinsville-cup-toyota-bell-wallace/10708426/,,motorsport.com,20250331024500,bq_candidate_scrape
-Progressive,https://www.motorsport.com/nascar-cup/news/former-nascar-star-kevin-harvick-criticizes-morgan-freemans-unenthusiastic-grand-marshal-performance/10704756/,,motorsport.com,20250319030000,bq_candidate_scrape
-Progressive,https://www.motorsport.com/nascar-cup/news/the-wood-brothers-arent-just-surviving-but-thriving-due-to-never-give-up-attitude/10704564/,,motorsport.com,20250318181500,bq_candidate_scrape
-Progressive,https://www.motorsport.com/nascar-cup/news/denny-hamlin-and-jgr-secure-major-sponsorship-deal-with-progressive/10704738/,,motorsport.com,20250319030000,bq_candidate_scrape
-Progressive,https://www.motorsport.com/nascar-cup/news/nascar-issues-six-suspensions-after-las-vegas-race-weekend/10704944/,,motorsport.com,20250319173000,bq_candidate_scrape
-Progressive,https://speedwaymedia.com/2025/03/23/nascar-top-10-power-rankings-homestead-16/,,speedwaymedia.com,20250324020000,bq_candidate_scrape
-Progressive,https://speedwaymedia.com/2025/03/02/ken-roczen-conquers-daytona-supercross/,,speedwaymedia.com,20250302160000,bq_candidate_scrape
-Progressive,https://racer.com/2025/04/27/buescher-and-company-frustrated-by-early-talladega-exit/,,racer.com,20250429154500,bq_candidate_scrape
-Progressive,https://racer.com/2025/04/13/larson-dominates-in-emotional-cup-series-victory-at-bristol/,,racer.com,20250414181500,bq_candidate_scrape
-Progressive,https://speedwaymedia.com/2025/04/24/talladegas-high-banks-provide-level-playing-field/,,speedwaymedia.com,20250424204500,bq_candidate_scrape
-Progressive,https://www.motorsport.com/nascar-cup/news/another-mechanical-issue-ends-denny-hamlins-day-early/10721966/,,motorsport.com,20250512054500,bq_candidate_scrape
-Progressive,https://speedwaymedia.com/2025/05/12/harrison-burton-to-drive-no-51-morton-buildings-ford-mustang-in-nascar-all-star-race/,,speedwaymedia.com,20250512224500,bq_candidate_scrape
-Progressive,https://www.motorsport.com/nascar-cup/news/denny-hamlin-wins-dramatic-dover-nascar-cup-race-double-overtime/10743784/,,motorsport.com,20250721001500,bq_candidate_scrape
+sponsor,url,title,domain,seendate,source_method,mention_type,event
+Progressive,https://www.motorsport.com/nascar-cup/news/hamlin-domination-and-no-respect-winners-and-losers-from-martinsville/10708644/,,motorsport.com,20250331223000,bq_candidate_scrape,primary
+Progressive,https://www.motorsport.com/nascar-cup/news/denny-hamlin-wins-martinsville-cup-toyota-bell-wallace/10708426/,,motorsport.com,20250331024500,bq_candidate_scrape,primary
+Progressive,https://www.motorsport.com/nascar-cup/news/denny-hamlin-and-jgr-secure-major-sponsorship-deal-with-progressive/10704738/,,motorsport.com,20250319030000,bq_candidate_scrape,primary
+Progressive,https://speedwaymedia.com/2025/03/23/nascar-top-10-power-rankings-homestead-16/,,speedwaymedia.com,20250324020000,bq_candidate_scrape,secondary
+Progressive,https://racer.com/2025/04/27/buescher-and-company-frustrated-by-early-talladega-exit/,,racer.com,20250429154500,bq_candidate_scrape,passing
+Progressive,https://racer.com/2025/04/13/larson-dominates-in-emotional-cup-series-victory-at-bristol/,,racer.com,20250414181500,bq_candidate_scrape,secondary
+Progressive,https://www.motorsport.com/nascar-cup/news/another-mechanical-issue-ends-denny-hamlins-day-early/10721966/,,motorsport.com,20250512054500,bq_candidate_scrape,primary,multiple dnfs
+Progressive,https://www.motorsport.com/nascar-cup/news/denny-hamlin-wins-dramatic-dover-nascar-cup-race-double-overtime/10743784/,,motorsport.com,20250721001500,bq_candidate_scrape,primary,dramatic win
 Progressive,https://speedwaymedia.com/2025/07/23/brick-a-brac-cody-wares-indy-mementos-include-nascar-and-indycar-experience/,,speedwaymedia.com,20250723210000,bq_candidate_scrape
 Progressive,https://speedwaymedia.com/2025/07/20/nascar-top-10-power-rankings-dover-25/,,speedwaymedia.com,20250721071500,bq_candidate_scrape
 Progressive,https://www.motorsport.com/nascar-cup/news/denny-hamlin-earns-toyota-200th-nascar-cup-win-gateway/10757692/,,motorsport.com,20250908001500,bq_candidate_scrape
