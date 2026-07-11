@@ -1,0 +1,10 @@
+{
+  "date_format": "%Y-%m-%d",
+  "race_name_mapping_count": 14,
+  "sponsor_name_mapping_count": 36,
+  "merge_key_components": [
+    "race_number",
+    "sponsor"
+  ],
+  "standardization_date": "2026-07-11T10:08:24.212501"
+}
