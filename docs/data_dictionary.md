@@ -2,7 +2,7 @@
 # Data Dictionary: NASCAR Sponsorship ROI Master Dataset
 
 **File**: `master_dataset.csv`
-**Created**: 2026-07-12
+**Created**: 2026-07-13
 **Records**: 276 sponsor-race combinations
 **Coverage**: 2024 NASCAR Cup Series (Races 1-36)
 **Sponsors**: FedEx, NAPA, McDonald's, Ally, Busch Light
@@ -14,9 +14,9 @@
 | Source | Type | Collection Method | Records |
 |--------|------|-------------------|---------|
 | Race Results | Performance | Racing Reference | 53 |
-| Reddit | Social Media | rss | 211 |
+| Reddit | Social Media | rss endpoint | 211 |
 | YouTube | Video | YouTube Data API v3 | 132 |
-| News | Traditional Media | Manual Google Search | 35 |
+| News | Traditional Media | web scrape | 35 |
 
 ---
 
@@ -47,8 +47,7 @@
 
 | Column | Type | Description | Source |
 |--------|------|-------------|--------|
-| `reddit_mention_count` | integer | Count of r/NASCAR posts mentioning sponsor |
-
+| `reddit_mentions` | integer | Count of r/NASCAR posts mentioning sponsor | PRAW search |
 
 **Notes**:
 - Values of 0 indicate no mentions found (not missing data)
@@ -59,10 +58,11 @@
 
 | Column | Type | Description | Source |
 |--------|------|-------------|--------|
-| `youtube_total_video_count` | integer | Total videos on all race highlight for that sponsor that race | YouTube API |
-| `youtube_total_view_count` | integer | Total views on that race that sponsor | YouTube API |
-| `youtube_total_like_count` | integer | Total likes on that sponsor that race across all the videos | YouTube API |
-| `youtube_total_comment_count` | integer | Total comments on that sponsor that race across all the videos | YouTube API |
+| `youtube_total_video_count` | integer | Count of videos featuring sponsor/driver | Title keyword match |
+| `youtube_total_view_count` | integer | Total views on sponsor-relevant videos | YouTube API |
+| `youtube_total_like_count` | integer | Total likes on sponsor-relevant videos | YouTube API |
+| `youtube_total_comment_count` | integer | Total comments on sponsor-relevant videos | YouTube API |
+
 
 **Notes**:
 - Total_views represents race exposure; sponsor_views represents sponsor-specific exposure
@@ -77,7 +77,8 @@
 | `news_primary_mentions` | integer | Articles where sponsor was main focus | Classified |
 | `news_weighted_mentions` | float | Mentions weighted by source tier | Calculated |
 | `news_secondary_mentions` | integer | Articles where sponsor was secondary focus | Classified |
-| `news_passing_mentions` | integer | Articles where sponsor was not focus but was mentioned| Classified |
+| `news_passing_mentions` | integer | Articles where sponsor was not focus but was mentioned | Classified |
+
 
 **Notes**:
 - Source tiers: Tier 1 (ESPN, NASCAR.com) = 1.0, Tier 2 = 0.8, Tier 3 = 0.6, Tier 4 = 0.4

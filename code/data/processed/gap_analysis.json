@@ -1,5 +1,5 @@
 {
-  "analysis_date": "2026-07-12T17:44:56.232544",
+  "analysis_date": "2026-07-13T11:08:26.462122",
   "dataset_summary": {
     "total_rows": 276,
     "unique_races": 53,
@@ -26,7 +26,9 @@
       "news_weighted_mentions": 0,
       "news_passing_mentions": 0,
       "news_primary_mentions": 0,
-      "news_secondary_mentions": 0
+      "news_secondary_mentions": 0,
+      "driver_search_interest": 57,
+      "sponsor_search_interest": 57
     }
   },
   "outliers": {
