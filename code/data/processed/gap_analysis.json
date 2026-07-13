@@ -1,0 +1,46 @@
+{
+  "analysis_date": "2026-07-12T17:44:56.232544",
+  "dataset_summary": {
+    "total_rows": 276,
+    "unique_races": 53,
+    "unique_sponsors": 6,
+    "date_range": "2025-02-16 to 2026-06-21"
+  },
+  "completeness": {
+    "missing_combinations": 37,
+    "null_values_by_column": {
+      "race_number": 0,
+      "race_name": 0,
+      "race_date": 0,
+      "primary_sponsor": 0,
+      "finish_position": 0,
+      "laps_led": 0,
+      "merge_key": 0,
+      "reddit_mention_count": 0,
+      "youtube_total_view_count": 0,
+      "youtube_total_like_count": 0,
+      "youtube_total_comment_count": 0,
+      "youtube_total_duration_seconds": 0,
+      "num_youtube_videos": 0,
+      "news_total_mentions": 0,
+      "news_weighted_mentions": 0,
+      "news_passing_mentions": 0,
+      "news_primary_mentions": 0,
+      "news_secondary_mentions": 0
+    }
+  },
+  "outliers": {
+    "reddit_mention_count": 4,
+    "youtube_total_view_count": 2,
+    "news_total_mentions": 9
+  },
+  "data_quality_flags": [],
+  "known_limitations": [
+    "Reddit data reflects post-collection scores, not scores at time of race",
+    "YouTube views counted at collection time may differ from views at race time",
+    "News mentions limited to English-language sources via Google search",
+    "Manual news collection introduces potential inconsistency in search depth",
+    "Sponsor-video tagging based on title keywords may miss or incorrectly tag some videos",
+    "Reddit search limitations may miss some sponsor mentions with unusual spelling"
+  ]
+}
