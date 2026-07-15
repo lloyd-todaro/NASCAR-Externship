@@ -2,4 +2,6 @@ config.py
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-.DS_Store
+.DS_Storeskills-lock.json
+SKILL.md
+skills-lock.json
