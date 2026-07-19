@@ -1,7 +1,7 @@
 
 # Data Quality Report: NASCAR Sponsorship Master Dataset
 
-**Generated**: 2026-07-13 11:08
+**Generated**: 2026-07-19 11:36
 **Analyst**: [Your Name]
 
 ---
@@ -38,7 +38,7 @@ All required columns are present with no unexpected null values.
 
 Statistical outliers identified (z-score > 3):
 - Reddit mentions: 4 records
-- YouTube views: 2 records
+- YouTube views: 3 records
 - News mentions: 0 records
 
 **Note**: Outliers are expected for race wins, crashes, and major events. They should be retained for analysis.

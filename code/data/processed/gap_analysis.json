@@ -1,5 +1,5 @@
 {
-  "analysis_date": "2026-07-13T11:08:26.462122",
+  "analysis_date": "2026-07-19T11:36:26.422231",
   "dataset_summary": {
     "total_rows": 276,
     "unique_races": 53,
@@ -7,7 +7,7 @@
     "date_range": "2025-02-16 to 2026-06-21"
   },
   "completeness": {
-    "missing_combinations": 37,
+    "missing_combinations": 32,
     "null_values_by_column": {
       "race_number": 0,
       "race_name": 0,
@@ -27,13 +27,13 @@
       "news_passing_mentions": 0,
       "news_primary_mentions": 0,
       "news_secondary_mentions": 0,
-      "driver_search_interest": 57,
-      "sponsor_search_interest": 57
+      "driver_search_interest": 69,
+      "sponsor_search_interest": 69
     }
   },
   "outliers": {
     "reddit_mention_count": 4,
-    "youtube_total_view_count": 2,
+    "youtube_total_view_count": 3,
     "news_total_mentions": 9
   },
   "data_quality_flags": [],
