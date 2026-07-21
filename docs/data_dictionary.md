@@ -2,7 +2,7 @@
 # Data Dictionary: NASCAR Sponsorship ROI Master Dataset
 
 **File**: `master_dataset.csv`
-**Created**: 2026-07-19
+**Created**: 2026-07-21
 **Records**: 276 sponsor-race combinations
 **Coverage**: 2024 NASCAR Cup Series (Races 1-36)
 **Sponsors**: FedEx, NAPA, McDonald's, Ally, Busch Light
@@ -14,9 +14,9 @@
 | Source | Type | Collection Method | Records |
 |--------|------|-------------------|---------|
 | Race Results | Performance | Racing Reference | 53 |
-| Reddit | Social Media | rss endpoint | 221 |
+| Reddit | Social Media | rss endpoint | 222 |
 | YouTube | Video | YouTube Data API v3 | 137 |
-| News | Traditional Media | web scrape | 35 |
+| News | Traditional Media | web scrape | 36 |
 
 ---
 

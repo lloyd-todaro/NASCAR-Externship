@@ -1,5 +1,5 @@
 {
-  "analysis_date": "2026-07-19T11:36:26.422231",
+  "analysis_date": "2026-07-21T09:58:04.913123",
   "dataset_summary": {
     "total_rows": 276,
     "unique_races": 53,
@@ -27,12 +27,12 @@
       "news_passing_mentions": 0,
       "news_primary_mentions": 0,
       "news_secondary_mentions": 0,
-      "driver_search_interest": 69,
-      "sponsor_search_interest": 69
+      "driver_search_interest": 65,
+      "sponsor_search_interest": 65
     }
   },
   "outliers": {
-    "reddit_mention_count": 4,
+    "reddit_mention_count": 3,
     "youtube_total_view_count": 3,
     "news_total_mentions": 9
   },
