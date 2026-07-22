@@ -1,0 +1,11 @@
+Variable 1,Variable 2,Correlation,P-Value,Significance
+finish_position,reddit_mention_count,-0.236,0.0004,***
+finish_position,youtube_total_view_count,-0.111,0.0968,*
+finish_position,youtube_total_like_count,-0.068,0.3132,
+finish_position,youtube_total_comment_count,-0.1,0.1367,
+finish_position,news_total_mentions,-0.065,0.3315,
+laps_led,reddit_mention_count,0.356,0.0,***
+laps_led,youtube_total_view_count,0.183,0.0061,***
+laps_led,youtube_total_like_count,0.132,0.0489,**
+laps_led,youtube_total_comment_count,0.166,0.0129,**
+laps_led,news_total_mentions,0.071,0.2898,
