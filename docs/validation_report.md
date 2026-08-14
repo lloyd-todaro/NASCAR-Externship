@@ -1,7 +1,7 @@
 
 # Visibility Scoring Model - Validation Report
 
-**Generated**: 2026-08-14 12:54
+**Generated**: 2026-08-14 14:32
 
 ## Summary
 

@@ -1,7 +1,7 @@
 
 # Visibility Scoring Model - Implementation Summary
 
-**Generated**: 2026-08-14 12:41
+**Generated**: 2026-08-14 14:32
 
 ## Model Configuration
 
