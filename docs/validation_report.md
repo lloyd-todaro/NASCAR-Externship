@@ -1,7 +1,7 @@
 
 # Visibility Scoring Model - Validation Report
 
-**Generated**: 2026-08-14 14:32
+**Generated**: 2026-08-16 23:30
 
 ## Summary
 
@@ -15,7 +15,7 @@
 
 ### Performance-Visibility Correlation
 
-- **finish_visibility_correlation**: PASS (r = -0.945)\n- **wins_visibility_correlation**: PASS (r = 0.928)\n- **laps_visibility_correlation**: PASS (r = 0.962)\n
+- **finish_visibility_correlation**: PASS (r = -0.985)\n- **wins_visibility_correlation**: PASS (r = 0.949)\n- **laps_visibility_correlation**: PASS (r = 0.951)\n
 
 ### Event Impact Validation
 
@@ -23,7 +23,7 @@
 
 ### Anomalies Identified
 
-- [LOW] Progressive has high score variance (CV = 0.95)\n- [LOW] Castrol has high score variance (CV = 0.93)\n- [LOW] Busch Light has high score variance (CV = 0.79)\n- [LOW] Love's Travel Stops has high score variance (CV = 1.41)\n- [LOW] Cheddar's Scratch Kitchen has high score variance (CV = 0.86)\n- [HIGH] 6 races have zero or negative visibility scores\n
+- [LOW] Progressive has high score variance (CV = 0.84)\n- [LOW] Cheddar's Scratch Kitchen has high score variance (CV = 1.42)\n- [LOW] Busch Light has high score variance (CV = 0.80)\n- [LOW] Castrol has high score variance (CV = 0.90)\n- [LOW] Love's Travel Stops has high score variance (CV = 1.32)\n- [HIGH] 3 races have zero or negative visibility scores\n
 
 ## Recommendation
 

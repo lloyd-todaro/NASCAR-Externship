@@ -1,7 +1,7 @@
 
 # Data Quality Report: NASCAR Sponsorship Master Dataset
 
-**Generated**: 2026-07-21 09:58
+**Generated**: 2026-08-16 23:23
 **Analyst**: [Your Name]
 
 ---
@@ -10,7 +10,7 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Records | 276 |
+| Total Records | 150 |
 | Unique Races | 53 |
 | Unique Sponsors | 6 |
 | Date Range | 2025-02-16 to 2026-06-21 |
@@ -19,7 +19,7 @@
 
 ### Expected vs Actual
 - **Expected**: 36 races x 5 sponsors = 180 records
-- **Actual**: 276 records
+- **Actual**: 150 records
 - **Status**: GAPS IDENTIFIED
 
 ### Column Completeness
@@ -38,14 +38,14 @@ All required columns are present with no unexpected null values.
 
 Statistical outliers identified (z-score > 3):
 - Reddit mentions: 3 records
-- YouTube views: 3 records
+- YouTube views: 2 records
 - News mentions: 0 records
 
 **Note**: Outliers are expected for race wins, crashes, and major events. They should be retained for analysis.
 
 ## Cross-Source Validation
 
-Race wins show 0.4x higher Reddit mentions than non-wins, confirming expected correlation between performance and exposure.
+Race wins show 0.1x higher Reddit mentions than non-wins, confirming expected correlation between performance and exposure.
 
 ## Known Limitations
 

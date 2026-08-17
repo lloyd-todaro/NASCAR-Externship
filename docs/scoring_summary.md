@@ -1,7 +1,7 @@
 
 # Visibility Scoring Model - Implementation Summary
 
-**Generated**: 2026-08-14 14:32
+**Generated**: 2026-08-16 23:30
 
 ## Model Configuration
 
@@ -24,8 +24,8 @@
 
 | Metric | Value |
 |--------|-------|
-| Mean Weekly Score | 6.97 |
-| Std Dev | 8.99 |
+| Mean Weekly Score | 10.61 |
+| Std Dev | 14.99 |
 | Min Weekly Score | 0.00 |
 | Max Weekly Score | 100.00 |
 
@@ -33,12 +33,12 @@
 
 | primary_sponsor           |   total_visibility |   visibility_rank |
 |:--------------------------|-------------------:|------------------:|
-| Progressive               |            767.724 |                 1 |
-| Castrol                   |            319.921 |                 2 |
-| Busch Light               |            303.029 |                 3 |
-| Love's Travel Stops       |             99.341 |                 4 |
-| Cheddar's Scratch Kitchen |             65.252 |                 5 |
-| Other/Unknown             |              0     |                 6 |
+| Progressive               |           477.62   |                 1 |
+| Cheddar's Scratch Kitchen |           195.562  |                 2 |
+| Busch Light               |           176.987  |                 3 |
+| Castrol                   |           108.345  |                 4 |
+| Love's Travel Stops       |            71.0194 |                 5 |
+| Other/Unknown             |             0      |                 6 |
 
 ## Files Generated
 

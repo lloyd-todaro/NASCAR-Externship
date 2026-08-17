@@ -5,9 +5,10 @@ Anthony Alfredo,Beard Motorsports,Other/Unknown,24.5,21,4.95,2,21,10.5,2,0,0,0,0
 Anthony Alfredo,Rick Hendrick,Other/Unknown,33.0,33,,1,0,0.0,1,0,0,0,0.0,0.0
 Austin Cindric,Team Penske,Other/Unknown,20.38,1,10.4,53,352,6.64,53,3,9,1,5.7,17.0
 Austin Dillon,Richard Childress,Other/Unknown,21.21,1,8.37,53,124,2.34,53,1,6,1,1.9,11.3
-Austin Hill,Richard Childress,Cheddar's Scratch Kitchen,24.92,9,7.44,12,1,0.08,12,0,1,0,0.0,8.3
+Austin Hill,Richard Childress,Other/Unknown,24.92,9,7.44,12,1,0.08,12,0,1,0,0.0,8.3
 B.J. Mcleod,B.J. McLeod,Other/Unknown,29.57,16,8.38,7,1,0.14,7,0,0,0,0.0,0.0
-Brad Keselowski,Jack Roush,Castrol,18.81,2,11.54,53,382,7.21,53,8,17,0,15.1,32.1
+Brad Keselowski,Jack Roush,Castrol,18.91,2,13.82,11,39,3.55,11,8,17,0,72.7,154.5
+Brad Keselowski,Jack Roush,Other/Unknown,18.79,2,11.06,42,343,8.17,42,8,17,0,19.0,40.5
 Bubba Wallace,23XI Racing,Other/Unknown,17.92,1,12.01,53,478,9.02,53,9,22,1,17.0,41.5
 Burt Myers,Team AmeriVet,Other/Unknown,36.0,36,,1,0,0.0,1,0,0,0,0.0,0.0
 Carson Hocevar,Spire Motorsports,Other/Unknown,19.42,1,11.05,53,222,4.19,53,6,16,1,11.3,30.2
@@ -27,7 +28,8 @@ Daniel Dye,B.J. McLeod,Other/Unknown,26.5,24,3.54,2,0,0.0,2,0,0,0,0.0,0.0
 Daniel Suarez,Spire Motorsports,Other/Unknown,13.65,1,7.57,17,38,2.24,17,4,12,1,23.5,70.6
 Daniel Suarez,Trackhouse Racing,Other/Unknown,20.89,2,10.5,36,35,0.97,36,4,12,1,11.1,33.3
 David Starr,Carl Long,Other/Unknown,29.0,29,,1,0,0.0,1,0,0,0,0.0,0.0
-Denny Hamlin,Joe Gibbs,Progressive,12.08,1,11.37,52,1848,35.54,52,23,29,10,44.2,55.8
+Denny Hamlin,Joe Gibbs,Other/Unknown,13.0,1,11.1,32,1009,31.53,32,23,29,10,71.9,90.6
+Denny Hamlin,Joe Gibbs,Progressive,10.6,1,11.92,20,839,41.95,20,23,29,10,115.0,145.0
 Erik Jones,Legacy Motor Club,Other/Unknown,19.21,2,9.24,53,28,0.53,53,5,9,0,9.4,17.0
 Helio Castroneves,Trackhouse Racing,Other/Unknown,39.0,39,,1,0,0.0,1,0,0,0,0.0,0.0
 Jesse Love,Beard Motorsports,Other/Unknown,27.5,24,4.95,2,0,0.0,2,0,0,0,0.0,0.0
@@ -43,19 +45,22 @@ Justin Allgaier,Rick Hendrick,Other/Unknown,23.67,22,1.53,3,0,0.0,3,0,1,0,0.0,33
 Justin Haley,Spire Motorsports,Other/Unknown,22.22,3,8.14,36,20,0.56,36,1,2,0,2.8,5.6
 Katherine Legge,B.J. McLeod,Other/Unknown,29.11,17,6.62,9,0,0.0,9,0,0,0,0.0,0.0
 Kevin Magnussen,Trackhouse Racing,Other/Unknown,27.0,27,,1,0,0.0,1,0,0,0,0.0,0.0
-Kyle Busch,Richard Childress,Other/Unknown,18.65,5,9.11,48,107,2.23,48,3,12,0,6.2,25.0
+Kyle Busch,Richard Childress,Cheddar's Scratch Kitchen,17.5,5,9.85,12,39,3.25,12,3,12,0,25.0,100.0
+Kyle Busch,Richard Childress,Other/Unknown,19.03,5,8.97,36,68,1.89,36,3,12,0,8.3,33.3
 Kyle Larson,Rick Hendrick,Other/Unknown,13.62,1,12.94,53,1714,32.34,53,22,32,3,41.5,60.4
 Michael Mcdowell,Spire Motorsports,Other/Unknown,18.42,2,8.81,53,120,2.26,53,5,10,0,9.4,18.9
 Noah Gragson,Bob Jenkins,Other/Unknown,24.96,4,8.44,53,9,0.17,53,1,4,0,1.9,7.5
 Ricky Stenhouse Jr,HYAK Motorsports,Other/Unknown,22.4,2,9.37,53,14,0.26,53,3,6,0,5.7,11.3
 Riley Herbst,23XI Racing,Other/Unknown,24.47,8,7.9,53,7,0.13,53,0,2,0,0.0,3.8
-Ross Chastain,Trackhouse Racing,Busch Light,17.23,1,10.39,53,143,2.7,53,5,16,1,9.4,30.2
+Ross Chastain,Trackhouse Racing,Busch Light,18.72,6,10.56,25,27,1.08,25,5,16,1,20.0,64.0
+Ross Chastain,Trackhouse Racing,Other/Unknown,15.89,1,10.25,28,116,4.14,28,5,16,1,17.9,57.1
 Ryan Blaney,Team Penske,Other/Unknown,13.64,1,12.49,53,1162,21.92,53,18,31,5,34.0,58.5
 Ryan Preece,Jack Roush,Other/Unknown,16.36,3,9.28,53,164,3.09,53,3,16,0,5.7,30.2
 Ryan Truex,Joe Gibbs,Other/Unknown,23.0,23,,1,0,0.0,1,0,0,0,0.0,0.0
 Shane Van Gisbergen,Trackhouse Racing,Other/Unknown,20.55,1,11.77,53,422,7.96,53,8,11,6,15.1,20.8
 Timmy Hill,Carl Long,Other/Unknown,36.0,35,1.0,3,0,0.0,3,0,0,0,0.0,0.0
-Todd Gilliland,Bob Jenkins,Love's Travel Stops,20.96,2,8.63,53,30,0.57,53,1,6,0,1.9,11.3
+Todd Gilliland,Bob Jenkins,Love's Travel Stops,21.72,2,8.98,29,23,0.79,29,1,6,0,3.4,20.7
+Todd Gilliland,Bob Jenkins,Other/Unknown,20.04,6,8.3,24,7,0.29,24,1,6,0,4.2,25.0
 Ty Dillon,Matthew Kaulig,Other/Unknown,24.77,8,7.78,53,22,0.42,53,0,1,0,0.0,1.9
 Ty Gibbs,Joe Gibbs,Other/Unknown,16.55,1,10.86,53,406,7.66,53,11,20,1,20.8,37.7
 Tyler Reddick,23XI Racing,Other/Unknown,12.47,1,9.44,53,597,11.26,53,17,26,5,32.1,49.1

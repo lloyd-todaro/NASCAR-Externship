@@ -1,7 +1,7 @@
 
 # Sensitivity Analysis Results
 
-**Generated**: 2026-08-14 14:36
+**Generated**: 2026-08-16 23:30
 
 ## Summary
 
@@ -26,9 +26,9 @@ indicating that the model is robust to reasonable variations in weight assumptio
 |:--------------------------|-----------:|-----------:|-------------:|
 | Busch Light               |          5 |          5 |            0 |
 | Castrol                   |          4 |          4 |            0 |
-| Cheddar's Scratch Kitchen |          3 |          3 |            0 |
+| Cheddar's Scratch Kitchen |          2 |          3 |            1 |
 | Love's Travel Stops       |          6 |          6 |            0 |
-| Other/Unknown             |          2 |          2 |            0 |
+| Other/Unknown             |          2 |          3 |            1 |
 | Progressive               |          1 |          1 |            0 |
 
 ### Weight Impact

@@ -2,7 +2,7 @@
 # NASCAR Sponsorship Visibility Scoring Model - Methodology
 
 **Version**: 1.0
-**Date**: 2026-08-14
+**Date**: 2026-08-16
 **Analyst**: Lloyd Todaro
 
 ---

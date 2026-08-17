@@ -1,9 +1,9 @@
 {
-  "merge_date": "2026-07-21T09:58:04.861791",
-  "total_rows": 276,
+  "merge_date": "2026-08-16T23:23:18.767936",
+  "total_rows": 150,
   "unique_races": 53,
   "unique_sponsors": 6,
-  "reddit_match_rate": 0.8043478260869565,
-  "youtube_match_rate": 0.4963768115942029,
-  "news_match_rate": 0.13043478260869565
+  "reddit_match_rate": 0.6466666666666666,
+  "youtube_match_rate": 0.4,
+  "news_match_rate": 0.2
 }

@@ -5,7 +5,7 @@
     "series": "Cup",
     "team_tier": "top",
     "sponsorship_type": "primary (partial-season) + full-season associate",
-    "tracked_race_count": 52,
+    "tracked_race_count": 20,
     "estimated_cost_low": 11000000,
     "estimated_cost_high": 26000000,
     "estimated_cost_mid": 18000000,
@@ -23,7 +23,7 @@
     "series": "Cup",
     "team_tier": "mid-to-top",
     "sponsorship_type": "primary (limited-race)",
-    "tracked_race_count": 53,
+    "tracked_race_count": 11,
     "estimated_cost_low": 2500000,
     "estimated_cost_high": 6500000,
     "estimated_cost_mid": 4500000,
@@ -39,7 +39,7 @@
     "series": "Cup",
     "team_tier": "mid",
     "sponsorship_type": "primary (full-season, multi-year deal)",
-    "tracked_race_count": 53,
+    "tracked_race_count": 25,
     "estimated_cost_low": 9000000,
     "estimated_cost_high": 17000000,
     "estimated_cost_mid": 13000000,
@@ -56,7 +56,7 @@
     "series": "Cup",
     "team_tier": "small/underfunded",
     "sponsorship_type": "primary (more than half-season)",
-    "tracked_race_count": 53,
+    "tracked_race_count": 29,
     "estimated_cost_low": 3000000,
     "estimated_cost_high": 6500000,
     "estimated_cost_mid": 4500000,
@@ -68,20 +68,20 @@
     "notes": "13th consecutive season of Love's at Front Row Motorsports (FRM), primary for 'more than half' of the 2025 races. FRM spends about a quarter of what a $20M+ top team spends per season (~$5M total team budget per that reporting), so per-race primary rates land at the low end of the Cup industry range ($125K-$400K/race) rather than the top-team range used for Progressive."
   },
   "Cheddar's Scratch Kitchen": {
-    "team": "Richard Childress (Richard Childress Racing - Xfinity Series)",
-    "driver": "Austin Hill",
-    "series": "Xfinity",
-    "team_tier": "mid (Xfinity budget scale)",
-    "sponsorship_type": "primary (limited-race, Xfinity Series)",
+    "team": "Richard Childress (Richard Childress Racing)",
+    "driver": "Kyle Busch",
+    "series": "Cup",
+    "team_tier": "mid",
+    "sponsorship_type": "primary (partial-season)",
     "tracked_race_count": 12,
-    "estimated_cost_low": 600000,
-    "estimated_cost_high": 2400000,
-    "estimated_cost_mid": 1500000,
+    "estimated_cost_low": 1500000,
+    "estimated_cost_high": 4000000,
+    "estimated_cost_mid": 2500000,
     "sources": [
       "https://speedwaymedia.com/2025/07/19/richard-childress-racing-and-cheddars-scratch-kitchen-team-up-to-honor-military/",
       "https://rtrsports.com/en/blog/nascar-sponsorship/"
     ],
     "confidence": "low",
-    "notes": "This project tracks Cheddar's on Austin Hill's Xfinity Series car (RCR), which is a smaller, separate deal from Cheddar's larger, better-known Cup Series sponsorship of Kyle Busch's RCR No. 8 - those are two different sponsorship arrangements with the same sponsor and team, and this dataset only tracks the Xfinity one. Xfinity primary sponsorships run far cheaper than Cup ($50K-$300K per race per industry sources), applied to the 12 tracked races."
+    "notes": "Kyle Busch's No. 8 carried Cheddar's Scratch Kitchen (or the 'Cheddar's Patriotic' livery variant) as primary sponsor in 12 tracked races, a partial-season pattern structurally similar to Castrol's deal with RFK. RCR is a mid-tier Cup organization (competitive, not 'big 4'), similar tier to Trackhouse. No source discloses a dollar figure for this specific deal, so the range applies a mid-tier partial-season per-race rate (comparable to the Castrol/Busch Light per-race benchmarks above) to 12 races. Confidence is 'low' because, unlike Castrol/Love's, no source here quotes the actual per-race rate for this specific deal \u2014 it's inferred from team tier."
   }
 }

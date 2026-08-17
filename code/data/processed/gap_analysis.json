@@ -1,13 +1,13 @@
 {
-  "analysis_date": "2026-07-21T09:58:04.913123",
+  "analysis_date": "2026-08-16T23:23:18.819331",
   "dataset_summary": {
-    "total_rows": 276,
+    "total_rows": 150,
     "unique_races": 53,
     "unique_sponsors": 6,
     "date_range": "2025-02-16 to 2026-06-21"
   },
   "completeness": {
-    "missing_combinations": 32,
+    "missing_combinations": 111,
     "null_values_by_column": {
       "race_number": 0,
       "race_name": 0,
@@ -33,8 +33,8 @@
   },
   "outliers": {
     "reddit_mention_count": 3,
-    "youtube_total_view_count": 3,
-    "news_total_mentions": 9
+    "youtube_total_view_count": 2,
+    "news_total_mentions": 2
   },
   "data_quality_flags": [],
   "known_limitations": [

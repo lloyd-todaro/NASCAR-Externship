@@ -2,14 +2,16 @@
 # Sponsor Recommendation: Progressive
 
 **Recommendation Type**: Visibility Recommendation
-**Analysis Date**: 2026-08-14
+**Analysis Date**: 2026-08-16
 
 ---
 
 ## Executive Summary
 
 Progressive is recommended as the **visibility recommendation option** for NY Racing's
-sponsorship strategy based on our visibility scoring analysis of the 2024 NASCAR Cup Series season.
+sponsorship strategy based on our visibility scoring analysis of the 2025 season and
+2026 season-to-date, restricted to the 20 races where Progressive was actually the
+primary sponsor on Denny Hamlin's Joe Gibbs Racing car.
 
 ---
 
@@ -17,11 +19,11 @@ sponsorship strategy based on our visibility scoring analysis of the 2024 NASCAR
 
 | Metric | Value | Context |
 |--------|-------|---------|
-| **Visibility Rank** | #1 of 5 | [Above/Below average] |
-| **Efficiency Rank** | #3 of 5 | [Above/Below average] |
-| **Total Visibility** | 767.7 points | [Percentile in dataset] |
-| **Efficiency** | 42.7 pts/$M | [Comparison to average] |
-| **Estimated Cost** | $18.0M/year | [Tier classification] |
+| **Visibility Rank** | #1 of 5 | Well ahead of #2 (Cheddar's Scratch Kitchen, 195.6) |
+| **Efficiency Rank** | #2 of 5 | Behind Cheddar's Scratch Kitchen (78.2 pts/$M) |
+| **Total Visibility** | 477.6 points | Across 20 races |
+| **Efficiency** | 26.5 pts/$M | Medium-confidence, sourced cost estimate |
+| **Estimated Cost** | $18.0M/year | Medium confidence |
 
 ---
 
@@ -53,19 +55,20 @@ sponsorship strategy based on our visibility scoring analysis of the 2024 NASCAR
 
 ### Performance Summary
 
-| Category | Progressive | Dataset Average |
+| Category | Progressive | Dataset Average (5 sponsors) |
 |----------|----------------|-----------------|
-| Total Visibility | 767.7 | [Avg] |
-| Efficiency | 42.7 | [Avg] |
-| Wins | 10 | [Avg] |
-| Top 5 Finishes | 23 | [Avg] |
-| Top 10 Finishes | 29 | [Avg] |
+| Total Visibility | 477.6 | 205.9 |
+| Efficiency (pts/$M) | 26.5 | 31.6 |
+| Wins | 4 | 0.8 |
+| Top 5 Finishes | 11 | 3.2 |
+| Top 10 Finishes | 13 | 5.8 |
+| Tracked Races | 20 | 19.4 |
 
 ### Consistency Analysis
 
 - **Best Week Score**: 100.0
-- **Worst Week Score**: 1.5
-- **Score Variability**: 14.0 (standard deviation)
+- **Worst Week Score**: 4.7
+- **Score Variability**: 20.1 (standard deviation, CV = 0.84) — high win-driven spikes, but a healthy floor even in off weeks.
 
 [Interpretation: Is this sponsor consistent or volatile?]
 
