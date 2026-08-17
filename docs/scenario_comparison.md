@@ -1,7 +1,7 @@
 
 # Sponsorship Strategy: Scenario Comparison
 
-**Generated**: 2026-08-16
+**Generated**: 2026-08-17
 
 ---
 
@@ -9,9 +9,7 @@
 
 This document compares three strategic approaches to NASCAR sponsorship selection
 based on our visibility scoring analysis. Each scenario optimizes for different
-business priorities. Visibility and race counts reflect only races each sponsor
-actually carried as primary on the car (per the per-race sponsor field scraped from
-racing-reference.info), not a driver's full season.
+business priorities.
 
 ---
 
@@ -32,12 +30,12 @@ racing-reference.info), not a driver's full season.
 
 **Advantages**:
 - Maximum brand exposure across all channels
-- Strongest performance-driven visibility: 4 wins, 11 top-5s in 20 races (55% top-5 rate)
+- Strongest performance-driven visibility
 - Most media attention
 
 **Disadvantages**:
 - Higher cost commitment
-- Lower return per dollar invested than Cheddar's Scratch Kitchen
+- Lower return per dollar invested
 - May not fit budget constraints
 
 **When to Choose This Scenario**:
@@ -61,85 +59,95 @@ racing-reference.info), not a driver's full season.
 | Estimated Investment | $4.9M |
 
 **Advantages**:
-- Best visibility per dollar spent, roughly 1.5x the next-best sponsor (Progressive)
-- Also #2 on raw visibility — not a small-scale niche pick
-- Lowest investment of the top two visibility performers
+- Best visibility per dollar spent
+- More defensible ROI story
+- Lower total investment required
 
 **Disadvantages**:
-- No direct quote exists for this specific deal — the $4.9M estimate is anchored to Castrol's own sourced per-race rate, not a disclosed Cheddar's/RCR figure
-- Highest score volatility of the five sponsors (CV = 1.42) on a 12-race sample
-- No wins in the tracked window (1 top-5 in 12 races)
+- Lower absolute visibility
+- May miss some premium exposure opportunities
+- Smaller presence than top-visibility option
 
 **When to Choose This Scenario**:
 - Budget is constrained
 - ROI justification is critical
-- You've confirmed the actual deal cost independently (see risk note above)
+- You need to prove value before scaling up
 
 ---
 
-### Scenario C: Balanced Approach / Hedge
+### Scenario C: Balanced Approach
 
-**Best For**: Teams wanting a defensible middle option with better-sourced cost data
+**Best For**: Teams seeking middle ground
 
 | Metric | Value |
 |--------|-------|
-| Recommended Sponsor | Castrol |
-| Total Visibility | 108.3 points |
-| Visibility Rank | #4 |
-| Efficiency | 24.1 pts/$M |
-| Efficiency Rank | #3 |
-| Estimated Investment | $4.5M |
+| Recommended Sponsor | Progressive |
+| Total Visibility | 477.6 points |
+| Visibility Rank | #1 |
+| Efficiency | 26.5 pts/$M |
+| Efficiency Rank | #2 |
+| Estimated Investment | $18.0M |
 
 **Advantages**:
-- Medium-confidence, sourced cost data — the most defensible number of the group
-- Reasonable efficiency, close behind Progressive
+- Strong performance on both dimensions
+- Reasonable cost with good exposure
+- Minimizes regret on either metric
 
 **Disadvantages**:
-- Smallest sample of all five sponsors (11 races)
-- No longer a standout on either visibility or efficiency — a genuine middle-of-the-pack option
+- Not the best on either dimension
+- May feel like compromise
+- Neither maximum exposure nor maximum efficiency
 
 **When to Choose This Scenario**:
-- You want a well-sourced cost figure over a higher but less-certain efficiency number
-- Cheddar's/RCR isn't a cultural or brand fit
-- Risk mitigation on cost uncertainty is a priority
+- You have moderate budget and moderate goals
+- Multiple stakeholders with different priorities
+- Risk mitigation is important
 
 ---
 
 ## Trade-off Summary
 
-| Scenario                        | Sponsor                   |   Visibility |   Vis_Rank |   Efficiency |   Eff_Rank |   Cost_$M |
-|:--------------------------------|:---------------------------|-------------:|-----------:|-------------:|-----------:|----------:|
-| Scenario A: Maximize Visibility | Progressive                |        477.6 |          1 |         26.5 |          2 |      18.0 |
-| Scenario B: Maximize Efficiency | Cheddar's Scratch Kitchen  |        195.6 |          2 |         39.9 |          1 |       4.9 |
-| Scenario C: Balanced / Hedge    | Castrol                    |        108.3 |          4 |         24.1 |          3 |       4.5 |
+| Scenario                        | Sponsor                   |   Visibility |   Vis_Rank |   Efficiency |   Eff_Rank |   Cost_$M |   Vis_vs_Max |   Eff_vs_Max |
+|:--------------------------------|:--------------------------|-------------:|-----------:|-------------:|-----------:|----------:|-------------:|-------------:|
+| Scenario A: Maximize Visibility | Progressive               |      477.62  |          1 |      26.5344 |          2 |      18   |        100   |         66.5 |
+| Scenario B: Maximize Efficiency | Cheddar's Scratch Kitchen |      195.562 |          2 |      39.9106 |          1 |       4.9 |         40.9 |        100   |
+| Scenario C: Balanced Approach   | Progressive               |      477.62  |          1 |      26.5344 |          2 |      18   |        100   |         66.5 |
+
+---
+
+## Visual Comparison
+
+[Insert scenario_comparison.png]
+
+---
+
+## Decision Guidance
+
+### If budget is NOT a constraint:
+Choose **Scenario A** (Maximize Visibility). Pay for the best exposure available.
+
+### If budget IS a constraint:
+Choose **Scenario B** (Maximize Efficiency). Get the most value per dollar.
+
+### If you have mixed priorities:
+Choose **Scenario C** (Balanced). Optimize across dimensions without extremes.
 
 ---
 
 ## Key Insight
 
-Cheddar's Scratch Kitchen leads on efficiency by roughly 1.5x, and still ranks #2 on
-raw visibility — it isn't a trade-off pick, it's a genuine value leader. The open
-question is whether its $4.9M cost estimate holds up once verified against an actual
-quote; that single number is the biggest uncertainty in this comparison. Progressive
-still leads on pure reach (477.6 vs. 195.6) but at roughly 3.7x Cheddar's estimated
-cost.
+Choosing maximum visibility (Progressive) over maximum efficiency (Cheddar's Scratch Kitchen) delivers 59% more visibility but at 34% lower efficiency.
 
 ---
 
 ## Recommendation
 
-For NY Racing's current situation, we recommend **Scenario B (Cheddar's Scratch
-Kitchen)** as the lead option, with Scenario C (Castrol) as the fallback:
+For NY Racing's current situation, we recommend **[Your recommended scenario]** because:
 
-1. Cheddar's delivers strong visibility at a meaningful discount to Progressive's
-   cost — the strongest risk-adjusted pick on paper.
-2. Before committing budget, get a real quote or a better-sourced comparable for
-   the Cheddar's/Kyle Busch deal specifically — the $4.9M figure borrows Castrol's
-   sourced per-race rate rather than a disclosed number for this deal, and this
-   recommendation is only as good as that assumption.
-3. If cost verification comes back materially higher (or RCR/Kyle Busch isn't the
-   right brand fit), Castrol is the well-sourced fallback.
+1. [Reason 1 connected to NY Racing's context]
+2. [Reason 2 based on budget/priorities]
+3. [Reason 3 based on risk tolerance]
 
 ---
 
-*This scenario analysis is based on 2025-2026 season data.*
+*This scenario analysis is based on 2024 season data. See methodology document for assumptions.*

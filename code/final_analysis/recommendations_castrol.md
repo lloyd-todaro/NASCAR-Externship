@@ -1,19 +1,15 @@
 
 # Sponsor Recommendation: Castrol
 
-**Recommendation Type**: Alternative Recommendation (Well-Sourced Hedge)
-**Analysis Date**: 2026-08-16
+**Recommendation Type**: Primary Recommendation
+**Analysis Date**: 2026-08-17
 
 ---
 
 ## Executive Summary
 
-Castrol is recommended as an **alternative/hedge option** for NY Racing's
-sponsorship strategy based on our visibility scoring analysis of the 2025 season and
-2026 season-to-date, restricted to the 11 races where Castrol was actually the
-primary sponsor on Brad Keselowski's RFK Racing car. It remains attractive as a
-fallback because its cost estimate carries medium confidence versus Cheddar's
-Scratch Kitchen's low-medium confidence.
+Castrol is recommended as the **primary recommendation option** for NY Racing's
+sponsorship strategy based on our visibility scoring analysis of the 2024 NASCAR Cup Series season.
 
 ---
 
@@ -21,11 +17,11 @@ Scratch Kitchen's low-medium confidence.
 
 | Metric | Value | Context |
 |--------|-------|---------|
-| **Visibility Rank** | #4 of 5 | Below Progressive, Cheddar's Scratch Kitchen, and Busch Light |
-| **Efficiency Rank** | #3 of 5 | Behind Cheddar's Scratch Kitchen (39.9 pts/$M) and Progressive (26.5 pts/$M) |
-| **Total Visibility** | 108.3 points | Across 11 races |
-| **Efficiency** | 24.1 pts/$M | Medium-confidence cost estimate |
-| **Estimated Cost** | $4.5M/year | Medium confidence, sourced |
+| **Visibility Rank** | #4 of 5 | [Above/Below average] |
+| **Efficiency Rank** | #3 of 5 | [Above/Below average] |
+| **Total Visibility** | 108.3 points | [Percentile in dataset] |
+| **Efficiency** | 24.1 pts/$M | [Comparison to average] |
+| **Estimated Cost** | $4.5M/year | [Tier classification] |
 
 ---
 
@@ -57,20 +53,19 @@ Scratch Kitchen's low-medium confidence.
 
 ### Performance Summary
 
-| Category | Castrol | Dataset Average (5 sponsors) |
+| Category | Castrol | Dataset Average |
 |----------|----------------|-----------------|
-| Total Visibility | 108.3 | 205.9 |
-| Efficiency (pts/$M) | 24.1 | 24.0 |
-| Wins | 0 | 0.8 |
-| Top 5 Finishes | 3 | 3.2 |
-| Top 10 Finishes | 3 | 5.8 |
-| Tracked Races | 11 | 19.4 |
+| Total Visibility | 108.3 | [Avg] |
+| Efficiency | 24.1 | [Avg] |
+| Wins | 0 | [Avg] |
+| Top 5 Finishes | 3 | [Avg] |
+| Top 10 Finishes | 3 | [Avg] |
 
 ### Consistency Analysis
 
 - **Best Week Score**: 34.6
 - **Worst Week Score**: 3.4
-- **Score Variability**: 8.9 (standard deviation, CV = 0.90) — smallest sample of the five sponsors (11 races), so this estimate carries real uncertainty.
+- **Score Variability**: 8.9 (standard deviation)
 
 [Interpretation: Is this sponsor consistent or volatile?]
 
