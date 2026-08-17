@@ -13,7 +13,7 @@ sponsorship strategy based on our visibility scoring analysis of the 2025 season
 2026 season-to-date, restricted to the 11 races where Castrol was actually the
 primary sponsor on Brad Keselowski's RFK Racing car. It remains attractive as a
 fallback because its cost estimate carries medium confidence versus Cheddar's
-Scratch Kitchen's low confidence.
+Scratch Kitchen's low-medium confidence.
 
 ---
 
@@ -22,7 +22,7 @@ Scratch Kitchen's low confidence.
 | Metric | Value | Context |
 |--------|-------|---------|
 | **Visibility Rank** | #4 of 5 | Below Progressive, Cheddar's Scratch Kitchen, and Busch Light |
-| **Efficiency Rank** | #3 of 5 | Behind Cheddar's Scratch Kitchen (78.2 pts/$M) and Progressive (26.5 pts/$M) |
+| **Efficiency Rank** | #3 of 5 | Behind Cheddar's Scratch Kitchen (39.9 pts/$M) and Progressive (26.5 pts/$M) |
 | **Total Visibility** | 108.3 points | Across 11 races |
 | **Efficiency** | 24.1 pts/$M | Medium-confidence cost estimate |
 | **Estimated Cost** | $4.5M/year | Medium confidence, sourced |
@@ -60,7 +60,7 @@ Scratch Kitchen's low confidence.
 | Category | Castrol | Dataset Average (5 sponsors) |
 |----------|----------------|-----------------|
 | Total Visibility | 108.3 | 205.9 |
-| Efficiency (pts/$M) | 24.1 | 31.6 |
+| Efficiency (pts/$M) | 24.1 | 24.0 |
 | Wins | 0 | 0.8 |
 | Top 5 Finishes | 3 | 3.2 |
 | Top 10 Finishes | 3 | 5.8 |

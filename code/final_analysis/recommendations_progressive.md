@@ -20,7 +20,7 @@ primary sponsor on Denny Hamlin's Joe Gibbs Racing car.
 | Metric | Value | Context |
 |--------|-------|---------|
 | **Visibility Rank** | #1 of 5 | Well ahead of #2 (Cheddar's Scratch Kitchen, 195.6) |
-| **Efficiency Rank** | #2 of 5 | Behind Cheddar's Scratch Kitchen (78.2 pts/$M) |
+| **Efficiency Rank** | #2 of 5 | Behind Cheddar's Scratch Kitchen (39.9 pts/$M) |
 | **Total Visibility** | 477.6 points | Across 20 races |
 | **Efficiency** | 26.5 pts/$M | Medium-confidence, sourced cost estimate |
 | **Estimated Cost** | $18.0M/year | Medium confidence |
@@ -58,7 +58,7 @@ primary sponsor on Denny Hamlin's Joe Gibbs Racing car.
 | Category | Progressive | Dataset Average (5 sponsors) |
 |----------|----------------|-----------------|
 | Total Visibility | 477.6 | 205.9 |
-| Efficiency (pts/$M) | 26.5 | 31.6 |
+| Efficiency (pts/$M) | 26.5 | 24.0 |
 | Wins | 4 | 0.8 |
 | Top 5 Finishes | 11 | 3.2 |
 | Top 10 Finishes | 13 | 5.8 |

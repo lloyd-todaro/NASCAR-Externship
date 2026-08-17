@@ -56,17 +56,17 @@ racing-reference.info), not a driver's full season.
 | Recommended Sponsor | Cheddar's Scratch Kitchen |
 | Total Visibility | 195.6 points |
 | Visibility Rank | #2 |
-| Efficiency | 78.2 pts/$M |
+| Efficiency | 39.9 pts/$M |
 | Efficiency Rank | #1 |
-| Estimated Investment | $2.5M |
+| Estimated Investment | $4.9M |
 
 **Advantages**:
-- Best visibility per dollar spent, by a wide margin (~3x the next-best sponsor)
+- Best visibility per dollar spent, roughly 1.5x the next-best sponsor (Progressive)
 - Also #2 on raw visibility — not a small-scale niche pick
-- Lower total investment required
+- Lowest investment of the top two visibility performers
 
 **Disadvantages**:
-- The $2.5M cost estimate is low confidence — no source discloses the actual per-race rate for this deal
+- No direct quote exists for this specific deal — the $4.9M estimate is anchored to Castrol's own sourced per-race rate, not a disclosed Cheddar's/RCR figure
 - Highest score volatility of the five sponsors (CV = 1.42) on a 12-race sample
 - No wins in the tracked window (1 top-5 in 12 races)
 
@@ -110,18 +110,19 @@ racing-reference.info), not a driver's full season.
 | Scenario                        | Sponsor                   |   Visibility |   Vis_Rank |   Efficiency |   Eff_Rank |   Cost_$M |
 |:--------------------------------|:---------------------------|-------------:|-----------:|-------------:|-----------:|----------:|
 | Scenario A: Maximize Visibility | Progressive                |        477.6 |          1 |         26.5 |          2 |      18.0 |
-| Scenario B: Maximize Efficiency | Cheddar's Scratch Kitchen  |        195.6 |          2 |         78.2 |          1 |       2.5 |
+| Scenario B: Maximize Efficiency | Cheddar's Scratch Kitchen  |        195.6 |          2 |         39.9 |          1 |       4.9 |
 | Scenario C: Balanced / Hedge    | Castrol                    |        108.3 |          4 |         24.1 |          3 |       4.5 |
 
 ---
 
 ## Key Insight
 
-Cheddar's Scratch Kitchen leads on efficiency by roughly 3x, and still ranks #2 on
+Cheddar's Scratch Kitchen leads on efficiency by roughly 1.5x, and still ranks #2 on
 raw visibility — it isn't a trade-off pick, it's a genuine value leader. The open
-question is whether its $2.5M cost estimate holds up once verified; that single
-number is the biggest uncertainty in this comparison. Progressive still leads on
-pure reach (477.6 vs. 195.6) but at roughly 7x Cheddar's estimated cost.
+question is whether its $4.9M cost estimate holds up once verified against an actual
+quote; that single number is the biggest uncertainty in this comparison. Progressive
+still leads on pure reach (477.6 vs. 195.6) but at roughly 3.7x Cheddar's estimated
+cost.
 
 ---
 
@@ -130,11 +131,12 @@ pure reach (477.6 vs. 195.6) but at roughly 7x Cheddar's estimated cost.
 For NY Racing's current situation, we recommend **Scenario B (Cheddar's Scratch
 Kitchen)** as the lead option, with Scenario C (Castrol) as the fallback:
 
-1. Cheddar's delivers strong visibility at a fraction of Progressive's cost — the
-   strongest risk-adjusted pick on paper.
+1. Cheddar's delivers strong visibility at a meaningful discount to Progressive's
+   cost — the strongest risk-adjusted pick on paper.
 2. Before committing budget, get a real quote or a better-sourced comparable for
-   the Cheddar's/Kyle Busch deal specifically — the $2.5M figure is a low-confidence
-   estimate, and this recommendation is only as good as that number.
+   the Cheddar's/Kyle Busch deal specifically — the $4.9M figure borrows Castrol's
+   sourced per-race rate rather than a disclosed number for this deal, and this
+   recommendation is only as good as that assumption.
 3. If cost verification comes back materially higher (or RCR/Kyle Busch isn't the
    right brand fit), Castrol is the well-sourced fallback.
 

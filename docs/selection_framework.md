@@ -29,12 +29,12 @@ directional rather than precise.
 ### Primary Recommendation: Cheddar's Scratch Kitchen
 
 **Why this sponsor?**
-- Best efficiency of the five by a clear margin (78.2 pts/$M — roughly 3x Progressive, the next-best)
+- Best efficiency of the five (39.9 pts/$M — roughly 1.5x Progressive, the next-best)
 - #2 total visibility (195.6) despite the second-smallest sample (12 races)
 
 **Risk factors:**
 - Highest score volatility of the five (CV = 1.42, best week 83.2 vs. worst week 1.4) — a real signal, but a noisy one given the small sample
-- Cost estimate is low confidence ($1.5M-$4M, mid $2.5M) — no source discloses the actual per-race rate for this specific deal
+- Cost estimate is low-medium confidence ($2.7M-$7.1M, mid $4.9M) — anchored to Castrol's sourced per-race rate, since no source discloses the actual rate for this specific deal
 - Verify cost directly and let a few more races play out before finalizing budget
 
 ### Secondary Recommendation: Progressive

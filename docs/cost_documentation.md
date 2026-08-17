@@ -51,15 +51,17 @@ This is a big primary sponsor on a reasonably high performing car as well.
             low end of the Cup industry range ($125K-$400K/race).
 
 ### Cheddar's Scratch Kitchen (Richard Childress Racing)
-- **Confidence**: Low
-- **Sources**: Speedway Media, RTR Sports
+- **Confidence**: Low-Medium
+- **Sources**: Speedway Media, RTR Sports, Jayski (Castrol/RFK comparable rate)
 - **Rationale**: Cheddar's is the primary sponsor on Kyle Busch's RCR No. 8 for
-            12 of the tracked races. RCR is a mid-tier Cup organization; no
-            source discloses an exact dollar figure for this specific deal, so
-            the range applies a mid-tier partial-season per-race rate
-            (comparable to the Castrol/Busch Light benchmarks above). Cheddar's
-            also has a separate, smaller Xfinity Series deal with Austin
-            Hill's No. 21 car, which is not part of this project's scope.
+            12 of the tracked races. RCR and RFK are both competitive mid-tier
+            Cup organizations, so this estimate applies Castrol's own sourced
+            per-race primary rate (~$227K-$591K/race) to Cheddar's 12 tracked
+            races. No source discloses a dollar figure for the Cheddar's deal
+            specifically, so confidence stays below Castrol's, but the range
+            is anchored to a real sourced comparable rate. Cheddar's also has
+            a separate, smaller Xfinity Series deal with Austin Hill's No. 21
+            car, which is not part of this project's scope.
 
 ## Limitations
 
