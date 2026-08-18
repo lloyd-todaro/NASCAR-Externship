@@ -103,7 +103,7 @@ efficiency (24.1 pts/$M).
 cost data than Cheddar's, if Cheddar's/RCR isn't the right brand fit or its
 cost verification comes back unfavorable
 
-[Insert scenario_comparison.png]
+![Scenario comparison: visibility and efficiency by strategic scenario](../code/data/plots/scenario_comparison.png)
 
 For NY Racing's current situation, we recommend **Scenario B (Cheddar's
 Scratch Kitchen)** as the lead option, with **Scenario C (Castrol)** as the
