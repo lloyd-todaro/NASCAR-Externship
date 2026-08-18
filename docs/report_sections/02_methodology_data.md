@@ -88,6 +88,7 @@ Five primary sponsors were selected for analysis based on:
 4. **Visibility**: Clear livery presence for attribution
 
 **Selected sponsors**:
+
 | Sponsor | Team | Driver | Team Tier |
 |---------|------|--------|-----------|
 | Progressive | Joe Gibbs Racing | Denny Hamlin | Top |

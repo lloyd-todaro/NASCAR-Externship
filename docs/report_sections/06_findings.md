@@ -19,6 +19,13 @@ Cheddar's is not a "cheap but small" pick. It's #2 in total visibility,
 trailing only Progressive, which costs roughly 3.7x as much. Its efficiency
 lead over the next-best sponsor (Progressive) is roughly 1.5x.
 
+![Visibility efficiency and cost per point by sponsor](../code/data/plots/efficiency_comparison.png)
+
+The cost-per-point panel on the right makes the ranking concrete: Cheddar's
+Scratch Kitchen costs about $25,000 per visibility point, roughly a third of
+what Busch Light costs for the same unit of exposure ($73,452) and well
+below Progressive's $37,687.
+
 **Caveat**: the $4.9M cost estimate behind this finding borrows Castrol's own
 sourced per-race rate rather than a disclosed figure for the Cheddar's/RCR
 deal specifically (see Section 2.4 and 2.5). This is the single largest
@@ -55,6 +62,16 @@ this sample size:
 | Reddit mentions | r = -0.34 | 0.0006 | 97 | Yes (p < 0.001) |
 | YouTube views | r = -0.20 | 0.055 | 97 | No (borderline) |
 | News mentions | r = -0.13 | 0.20 | 97 | No |
+
+![Race performance vs. Reddit mentions, with Spearman correlation and trend line](../code/data/plots/scatter_with_regression.png)
+
+Most races cluster at single-digit mention counts regardless of finish
+position, the dense band along the bottom of the plot, and a small number of
+high-mention races pull the trend line into negative territory. That pattern,
+real but noisy rather than tight, is why Reddit clears significance at
+p = 0.0006 while YouTube (p = 0.055) and news (p = 0.20) don't: 97 races is
+enough to detect the underlying trend, but not enough to make it obvious
+point by point.
 
 YouTube and news readings are directionally consistent with Reddit but not
 statistically distinguishable from noise at this sample size. This is a real

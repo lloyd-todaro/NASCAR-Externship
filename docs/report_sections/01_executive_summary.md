@@ -59,6 +59,10 @@ how much weight either should carry in future live monitoring.
 | **Visibility Range** | All sponsors | 71 - 478 points |
 | **Efficiency Range** | All sponsors | 13.6 - 39.9 pts/$M |
 
+![Sponsor visibility dashboard: season totals, weekly score distribution, cumulative trend, and wins vs. visibility](../code/data/plots/sponsor_dashboard.png)
+
+The cumulative-visibility panel (bottom left) shows Progressive separating from the field early and extending the lead again at the playoff mark (Finding 2). The other four sponsors stay bunched together for most of the season, until Cheddar's Scratch Kitchen overtakes Busch Light in the final third, the same efficiency story told numerically in Finding 1. The wins-vs-visibility panel (bottom right) makes that finding visual: Progressive is the only sponsor with any wins, yet Cheddar's Scratch Kitchen still out-visibilities Castrol and Love's Travel Stops by a wide margin.
+
 ---
 
 ## Recommendations

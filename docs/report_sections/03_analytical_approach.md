@@ -7,6 +7,9 @@ We developed a composite visibility score that combines three top-level categori
 into a single metric for sponsor comparison. The model is designed to answer:
 "How much visibility exposure did this sponsor receive during the season?"
 
+The category weights below (40/50/10) are heavily derived from industry-standard
+sponsorship valuation practice rather than fit to this dataset.
+
 ### Score Components and Weights
 
 | Category | Weight | Components | Rationale |

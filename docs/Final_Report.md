@@ -96,6 +96,10 @@ how much weight either should carry in future live monitoring.
 | **Visibility Range** | All sponsors | 71 - 478 points |
 | **Efficiency Range** | All sponsors | 13.6 - 39.9 pts/$M |
 
+![Sponsor visibility dashboard: season totals, weekly score distribution, cumulative trend, and wins vs. visibility](../code/data/plots/sponsor_dashboard.png)
+
+The cumulative-visibility panel (bottom left) shows Progressive separating from the field early and extending the lead again at the playoff mark (Finding 2). The other four sponsors stay bunched together for most of the season, until Cheddar's Scratch Kitchen overtakes Busch Light in the final third, the same efficiency story told numerically in Finding 1. The wins-vs-visibility panel (bottom right) makes that finding visual: Progressive is the only sponsor with any wins, yet Cheddar's Scratch Kitchen still out-visibilities Castrol and Love's Travel Stops by a wide margin.
+
 ---
 
 ## Recommendations
@@ -144,8 +148,6 @@ See Section 6 (Limitations) for complete discussion.
 For recommendation rationale, see Section 5.*
 
 ---
-
-# Section 2: Methodology
 
 # Section 2: Methodology
 
@@ -236,6 +238,7 @@ Five primary sponsors were selected for analysis based on:
 4. **Visibility**: Clear livery presence for attribution
 
 **Selected sponsors**:
+
 | Sponsor | Team | Driver | Team Tier |
 |---------|------|--------|-----------|
 | Progressive | Joe Gibbs Racing | Denny Hamlin | Top |
@@ -253,6 +256,9 @@ Five primary sponsors were selected for analysis based on:
 We developed a composite visibility score that combines three top-level categories
 into a single metric for sponsor comparison. The model is designed to answer:
 "How much visibility exposure did this sponsor receive during the season?"
+
+The category weights below (40/50/10) are heavily derived from industry-standard
+sponsorship valuation practice rather than fit to this dataset.
 
 ### Score Components and Weights
 
@@ -516,6 +522,13 @@ Cheddar's is not a "cheap but small" pick. It's #2 in total visibility,
 trailing only Progressive, which costs roughly 3.7x as much. Its efficiency
 lead over the next-best sponsor (Progressive) is roughly 1.5x.
 
+![Visibility efficiency and cost per point by sponsor](../code/data/plots/efficiency_comparison.png)
+
+The cost-per-point panel on the right makes the ranking concrete: Cheddar's
+Scratch Kitchen costs about $25,000 per visibility point, roughly a third of
+what Busch Light costs for the same unit of exposure ($73,452) and well
+below Progressive's $37,687.
+
 **Caveat**: the $4.9M cost estimate behind this finding borrows Castrol's own
 sourced per-race rate rather than a disclosed figure for the Cheddar's/RCR
 deal specifically (see Section 2.4 and 2.5). This is the single largest
@@ -552,6 +565,16 @@ this sample size:
 | Reddit mentions | r = -0.34 | 0.0006 | 97 | Yes (p < 0.001) |
 | YouTube views | r = -0.20 | 0.055 | 97 | No (borderline) |
 | News mentions | r = -0.13 | 0.20 | 97 | No |
+
+![Race performance vs. Reddit mentions, with Spearman correlation and trend line](../code/data/plots/scatter_with_regression.png)
+
+Most races cluster at single-digit mention counts regardless of finish
+position, the dense band along the bottom of the plot, and a small number of
+high-mention races pull the trend line into negative territory. That pattern,
+real but noisy rather than tight, is why Reddit clears significance at
+p = 0.0006 while YouTube (p = 0.055) and news (p = 0.20) don't: 97 races is
+enough to detect the underlying trend, but not enough to make it obvious
+point by point.
 
 YouTube and news readings are directionally consistent with Reddit but not
 statistically distinguishable from noise at this sample size. This is a real
