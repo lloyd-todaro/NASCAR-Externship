@@ -40,7 +40,7 @@ model validation in the statistical sense.
   widest swings.
 - **1 high-severity**: 3 race-sponsor combinations score at or near zero.
   These are races where a sponsor's car had no laps led, no win, no playoff
-  bonus, and no media mentions that week — the model's theoretical floor,
+  bonus, and no media mentions that week: the model's theoretical floor,
   not a data quality issue.
 
 ### 2.4.2 Weight Sensitivity Testing
@@ -61,7 +61,7 @@ in all four scenarios (Progressive #1, Castrol #4, Busch Light #5, Love's
 Travel Stops last among the comparison groups). Cheddar's Scratch Kitchen
 was the only tracked sponsor whose rank moved, swinging between #2 and #3
 depending on how much weight a scenario gives to race performance versus
-media visibility — consistent with its actual profile of strong Reddit/
+media visibility. That's consistent with its actual profile of strong Reddit/
 YouTube engagement paired with minimal on-track dominance (39 laps led
 across 12 races, the second-lowest of the five tracked sponsors).
 
@@ -69,7 +69,7 @@ across 12 races, the second-lowest of the five tracked sponsors).
 sponsors are large (Progressive at 477.6 points vs. Love's Travel Stops at
 71.0), so almost any reasonable reweighting preserves the same broad
 ordering. Rank stability here demonstrates that the sponsor gaps are large,
-not that the model's internal weight calibration is finely tuned — a
+not that the model's internal weight calibration is finely tuned. A
 smaller, more closely-matched sponsor set would likely show more rank
 movement under the same weight changes.
 

@@ -15,7 +15,7 @@ team on a partial-season deal rather than a marquee, full-season primary.
 | Castrol | 108.3 | #4 | 24.1 | #3 | $4.5M |
 | Love's Travel Stops | 71.0 | #5 | 15.8 | #4 | $4.5M |
 
-Cheddar's is not a "cheap but small" pick — it's #2 in total visibility,
+Cheddar's is not a "cheap but small" pick. It's #2 in total visibility,
 trailing only Progressive, which costs roughly 3.7x as much. Its efficiency
 lead over the next-best sponsor (Progressive) is roughly 1.5x.
 
@@ -40,7 +40,7 @@ playoff-window races (races 27-36) as prime, high-value activation windows,
 not just "more of the same, but with higher stakes."
 
 By contrast, "wins and top-5s generate more visibility than other finishes"
-is not, by itself, a useful headline finding — no one sponsoring a race car
+is not, by itself, a useful headline finding: no one sponsoring a race car
 expects otherwise. Its value here is calibrating the scoring model's
 special-events weighting (Section 2.3), not as a stakeholder-facing insight.
 
@@ -59,7 +59,7 @@ this sample size:
 YouTube and news readings are directionally consistent with Reddit but not
 statistically distinguishable from noise at this sample size. This is a real
 constraint on how much weight either should carry in a future live
-monitoring dashboard — Reddit should be weighted most heavily, with YouTube
+monitoring dashboard. Reddit should be weighted most heavily, with YouTube
 and news treated as confirmatory rather than primary signals.
 
 ## 3.4 Finding: On-Track Performance and Visibility Move Together, But Not Proportionally
@@ -74,7 +74,7 @@ and news treated as confirmatory rather than primary signals.
 
 Progressive is the only tracked sponsor with any wins in the window, and its
 average finish (10.6) is more than 7 spots better than the next-closest
-sponsor — consistent with its #1 visibility rank. But the relationship
+sponsor, consistent with its #1 visibility rank. But the relationship
 flattens out below that: Cheddar's, Castrol, and Busch Light post similar
 average finishes (17.5-18.9) yet materially different visibility totals
 (195.6, 108.3, 177.0), meaning on-track performance alone does not fully

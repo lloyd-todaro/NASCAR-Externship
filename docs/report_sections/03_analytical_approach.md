@@ -11,7 +11,7 @@ into a single metric for sponsor comparison. The model is designed to answer:
 
 | Category | Weight | Components | Rationale |
 |----------|--------|------------|-----------|
-| **Race Performance** | 40% | Laps led (40%) | On-track dominance drives camera time and attention. Laps led is used instead of finish position because the two are highly collinear, and laps led showed the stronger relationship with visibility in EDA — including both would double-count the same signal. |
+| **Race Performance** | 40% | Laps led (40%) | On-track dominance drives camera time and attention. Laps led is used instead of finish position because the two are highly collinear, and laps led showed the stronger relationship with visibility in EDA. Including both would double-count the same signal. |
 | **Visibility Index** | 50% | Reddit mentions, YouTube views, and weighted news mentions, combined via PCA | Captures total cross-channel exposure using data-driven relative weights between channels, rather than an analyst hand-picking a split between Reddit/YouTube/news |
 | **Special Events** | 10% | Race wins (6%), Playoff races (4%) | Wins and playoff races generate disproportionate visibility spikes that a smooth performance metric alone would miss |
 
@@ -35,7 +35,7 @@ The 50% Visibility Index is itself a composite, built as follows:
 
 Continuous inputs (laps led and the visibility index) are z-score standardized
 rather than min-max normalized, so a single outlier race doesn't compress the
-rest of the scale — laps led in particular is heavily skewed, with most races
+rest of the scale. Laps led in particular is heavily skewed, with most races
 recording 0 laps led and a handful recording 200+.
 
 Binary flags (`is_win`, `is_playoff`) are kept as plain 0/1 indicators rather
@@ -51,7 +51,7 @@ variable individually before combining.
 
 - **Finish position** is tracked in the scoring configuration but carries
   zero effective weight in the final model, for the collinearity reason
-  described above — laps led carries the race-performance signal instead.
+  described above: laps led carries the race-performance signal instead.
 - **Wins** are defined as a 1st-place finish.
 - **Playoff races** are races 27-36, matching NASCAR's actual 10-race
   playoff window.

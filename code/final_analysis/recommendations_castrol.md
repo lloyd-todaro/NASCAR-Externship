@@ -2,7 +2,7 @@
 # Sponsor Recommendation: Castrol
 
 **Recommendation Type**: Primary Recommendation
-**Analysis Date**: 2026-08-17
+**Analysis Date**: 2026-08-18
 
 ---
 

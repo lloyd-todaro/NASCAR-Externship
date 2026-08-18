@@ -12,7 +12,7 @@ sponsorship opportunities and identify the best value investments.
 
 **Methodology**: Composite visibility score incorporating race performance (40%),
 a PCA-weighted visibility index across Reddit/YouTube/news (50%), and special
-events — wins and playoffs (10%)
+events: wins and playoffs (10%)
 
 ---
 
@@ -21,7 +21,7 @@ events — wins and playoffs (10%)
 ### Finding 1: Efficiency leadership doesn't track brand prestige
 
 Cheddar's Scratch Kitchen (Kyle Busch, Richard Childress Racing) delivers the best
-visibility-per-dollar of any tracked sponsor — roughly 1.5x the next-best sponsor —
+visibility-per-dollar of any tracked sponsor (roughly 1.5x the next-best sponsor)
 while carrying a budget comparable to Castrol's and far below Progressive's. It
 isn't a "cheap but small" pick either: it's #2 in total visibility, trailing only
 Progressive, which costs roughly 3.7x as much.
@@ -30,7 +30,7 @@ Progressive, which costs roughly 3.7x as much.
 
 ### Finding 2: A playoff race is worth more than double a regular-season race
 
-The visibility bump from playoff races isn't a marginal effect — a playoff race is
+The visibility bump from playoff races isn't a marginal effect. A playoff race is
 worth more than double a regular-season one, a bigger swing than the win bonus
 (1.79x) and second only to the top-5 bonus (3.12x). Sponsors should treat
 playoff-window races as prime, high-value activation windows, not just "more of the
@@ -43,7 +43,7 @@ same, but with higher stakes."
 Of the three visibility channels tracked, only Reddit's relationship with race
 performance clears standard statistical significance thresholds with a reasonably
 sized sample. YouTube and news readings are directionally similar but not
-statistically distinguishable from noise at this sample size — a real constraint on
+statistically distinguishable from noise at this sample size. That's a real constraint on
 how much weight either should carry in future live monitoring.
 
 **Supporting evidence**: Reddit mentions vs. finish position: r = -0.34, p = 0.0006, N = 97 (the strongest and most significant relationship in the correlation matrix). YouTube views vs. finish position: r = -0.20, p = 0.055 (not significant at the 0.05 level). News mentions vs. finish position: r = -0.13, p = 0.20 (not significant).
@@ -70,19 +70,19 @@ how much weight either should carry in future live monitoring.
 - #2 total visibility (195.6 points) despite the smallest budget in the group
 - Lowest financial commitment required to secure a top-2 visibility outcome
 
-**Estimated investment**: $4.9M (low-medium confidence estimate; verify directly before committing — see caveats) | **Expected visibility**: ~196 points
+**Estimated investment**: $4.9M (low-medium confidence estimate; verify directly before committing, see caveats) | **Expected visibility**: ~196 points
 
 ### Alternative Option
 
 **Progressive** offers the strongest total exposure for teams prioritizing maximum reach over cost efficiency:
 - #1 total visibility (477.6 points), driven by the strongest on-track performance of any sponsor (4 wins, 11 top-5s in 20 sponsored races)
-- Best-sourced, medium-confidence cost estimate of the group — but at roughly 3.7x Cheddar's estimated cost
+- Best-sourced, medium-confidence cost estimate of the group, but at roughly 3.7x Cheddar's estimated cost
 
 **Castrol** is a smaller, well-sourced hedge if Cheddar's cost verification comes back unfavorable, though it is no longer a standout on either visibility or efficiency once restricted to its actual 11 sponsored races.
 
 ### Recommended Next Steps
 
-1. Verify the Cheddar's Scratch Kitchen cost estimate directly (a quote or a better-sourced comparable) — it's the single number that could flip this recommendation.
+1. Verify the Cheddar's Scratch Kitchen cost estimate directly (a quote or a better-sourced comparable). It's the single number that could flip this recommendation.
 2. Run a sentiment check on the Kyle Busch Reddit/YouTube corpus to confirm the visibility is net-positive before pitching this externally.
 3. Revisit the ranking once Cheddar's and Castrol (both under 12 tracked races) have accumulated more races, to confirm the efficiency lead holds up beyond the current small sample.
 
@@ -91,10 +91,10 @@ how much weight either should carry in future live monitoring.
 ## Important Caveats
 
 This analysis relies on **estimated sponsorship costs** derived from industry publications.
-Actual costs may vary significantly from estimates — Cheddar's Scratch Kitchen's estimate
+Actual costs may vary significantly from estimates. Cheddar's Scratch Kitchen's estimate
 in particular carries low-medium confidence with no disclosed source for this specific deal. Rankings are sensitive to:
 
-- Cost estimate accuracy (tested with sensitivity analysis) — Cheddar's efficiency lead could shrink or disappear if true cost exceeds ~$7M
+- Cost estimate accuracy (tested with sensitivity analysis): Cheddar's efficiency lead could shrink or disappear if true cost exceeds ~$7M
 - Small sample sizes for Castrol (11 races) and Cheddar's Scratch Kitchen (12 races), which widen the uncertainty on their numbers relative to Progressive (20), Busch Light (25), and Love's Travel Stops (29)
 - Weight configuration choices (model is nominally robust to weight changes, though this mostly reflects large gaps between sponsors' scores rather than fine-grained model calibration)
 - 2025-2026 season-specific patterns (may not generalize to future seasons)

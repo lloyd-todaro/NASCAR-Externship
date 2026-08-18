@@ -21,7 +21,7 @@ This analysis draws on four primary data categories collected for the 2025 NASCA
 - Web scraper built with BeautifulSoup, pulling race-by-race result pages
 - No missing race records for tracked sponsors
 - Primary sponsor identification uses the per-race sponsor field, matched
-  against each tracked driver's sponsor keywords for that specific race —
+  against each tracked driver's sponsor keywords for that specific race,
   not a driver's full-season assignment
 
 ### Social Media Data

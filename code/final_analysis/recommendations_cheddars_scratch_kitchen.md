@@ -2,7 +2,7 @@
 # Sponsor Recommendation: Cheddar's Scratch Kitchen
 
 **Recommendation Type**: Value Option
-**Analysis Date**: 2026-08-17
+**Analysis Date**: 2026-08-18
 
 ---
 

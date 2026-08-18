@@ -46,7 +46,7 @@ certainty over efficiency.
 
 1. **Highest total visibility by a wide margin**: 477.6 points, driven by
    the strongest on-track performance of any tracked sponsor (4 wins, 11
-   top-5s in 20 races — a 55% top-5 rate).
+   top-5s in 20 races, a 55% top-5 rate).
 2. **Best-sourced cost estimate of the group**: medium confidence, versus
    Cheddar's low-medium confidence.
 
@@ -60,7 +60,7 @@ upgrade rather than an efficiency upgrade. Right choice if budget certainty
 and maximum reach matter more than return per dollar.
 
 If Cheddar's cost verification comes back unfavorable, **Castrol** is the
-well-sourced middle option (see Section 4.3, Scenario C) — smaller sample
+well-sourced middle option (see Section 4.3, Scenario C), a smaller sample
 (11 races) but a sourced, medium-confidence cost estimate and reasonable
 efficiency (24.1 pts/$M).
 
@@ -107,7 +107,7 @@ cost verification comes back unfavorable
 
 For NY Racing's current situation, we recommend **Scenario B (Cheddar's
 Scratch Kitchen)** as the lead option, with **Scenario C (Castrol)** as the
-fallback — see Section 4.1/4.2 for the full reasoning.
+fallback. See Section 4.1/4.2 for the full reasoning.
 
 ---
 
@@ -117,7 +117,7 @@ fallback — see Section 4.1/4.2 for the full reasoning.
 
 1. **Immediate**: Request a direct cost quote (or a better-sourced
    comparable) for the Cheddar's Scratch Kitchen / Kyle Busch / RCR No. 8
-   deal — the single number that could flip this recommendation.
+   deal. It's the single number that could flip this recommendation.
 2. **Short-term (1-2 weeks)**: Run a sentiment check on the Kyle Busch
    Reddit/YouTube corpus (`sentiment_analysis.ipynb`) to confirm the
    visibility is net-positive before pitching this externally.
@@ -159,6 +159,5 @@ For future sponsorship evaluation, apply this framework:
 | 6 | Run sensitivity test | Stability assessment |
 | 7 | Make recommendation | Decision document |
 
-This methodology can be applied to evaluate future sponsorship opportunities
-using the same analytical framework.
+Future sponsorship decisions can reuse this same framework.
 

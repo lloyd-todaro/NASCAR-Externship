@@ -21,7 +21,7 @@ estimate borrows Castrol's own sourced per-race rate rather than a disclosed
 figure for the Cheddar's/RCR deal specifically.
 
 **Impact**: Efficiency rankings could shift if actual costs differ significantly
-from estimates — Cheddar's efficiency lead over Progressive is the primary
+from estimates. Cheddar's efficiency lead over Progressive is the primary
 recommendation's single largest point of uncertainty.
 
 **Mitigation**: Tested efficiency rankings with low, mid, and high cost estimates
@@ -35,7 +35,7 @@ roughly a third of the tracked races that Love's Travel Stops (29) has, and
 under half of Busch Light (25).
 
 **Impact**: A single strong or weak week moves these two sponsors' season
-totals substantially more than it would for the higher-race-count sponsors —
+totals substantially more than it would for the higher-race-count sponsors:
 both show the highest score volatility of the five (CV = 0.90 and 1.42
 respectively, see Section 2.4 anomaly detection).
 

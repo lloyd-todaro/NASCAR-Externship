@@ -1,7 +1,7 @@
 
 # Sponsorship Strategy: Scenario Comparison
 
-**Generated**: 2026-08-17
+**Generated**: 2026-08-18
 
 ---
 

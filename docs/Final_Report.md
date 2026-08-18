@@ -49,7 +49,7 @@ sponsorship opportunities and identify the best value investments.
 
 **Methodology**: Composite visibility score incorporating race performance (40%),
 a PCA-weighted visibility index across Reddit/YouTube/news (50%), and special
-events — wins and playoffs (10%)
+events: wins and playoffs (10%)
 
 ---
 
@@ -58,7 +58,7 @@ events — wins and playoffs (10%)
 ### Finding 1: Efficiency leadership doesn't track brand prestige
 
 Cheddar's Scratch Kitchen (Kyle Busch, Richard Childress Racing) delivers the best
-visibility-per-dollar of any tracked sponsor — roughly 1.5x the next-best sponsor —
+visibility-per-dollar of any tracked sponsor (roughly 1.5x the next-best sponsor)
 while carrying a budget comparable to Castrol's and far below Progressive's. It
 isn't a "cheap but small" pick either: it's #2 in total visibility, trailing only
 Progressive, which costs roughly 3.7x as much.
@@ -67,7 +67,7 @@ Progressive, which costs roughly 3.7x as much.
 
 ### Finding 2: A playoff race is worth more than double a regular-season race
 
-The visibility bump from playoff races isn't a marginal effect — a playoff race is
+The visibility bump from playoff races isn't a marginal effect. A playoff race is
 worth more than double a regular-season one, a bigger swing than the win bonus
 (1.79x) and second only to the top-5 bonus (3.12x). Sponsors should treat
 playoff-window races as prime, high-value activation windows, not just "more of the
@@ -80,7 +80,7 @@ same, but with higher stakes."
 Of the three visibility channels tracked, only Reddit's relationship with race
 performance clears standard statistical significance thresholds with a reasonably
 sized sample. YouTube and news readings are directionally similar but not
-statistically distinguishable from noise at this sample size — a real constraint on
+statistically distinguishable from noise at this sample size. That's a real constraint on
 how much weight either should carry in future live monitoring.
 
 **Supporting evidence**: Reddit mentions vs. finish position: r = -0.34, p = 0.0006, N = 97 (the strongest and most significant relationship in the correlation matrix). YouTube views vs. finish position: r = -0.20, p = 0.055 (not significant at the 0.05 level). News mentions vs. finish position: r = -0.13, p = 0.20 (not significant).
@@ -107,19 +107,19 @@ how much weight either should carry in future live monitoring.
 - #2 total visibility (195.6 points) despite the smallest budget in the group
 - Lowest financial commitment required to secure a top-2 visibility outcome
 
-**Estimated investment**: $4.9M (low-medium confidence estimate; verify directly before committing — see caveats) | **Expected visibility**: ~196 points
+**Estimated investment**: $4.9M (low-medium confidence estimate; verify directly before committing, see caveats) | **Expected visibility**: ~196 points
 
 ### Alternative Option
 
 **Progressive** offers the strongest total exposure for teams prioritizing maximum reach over cost efficiency:
 - #1 total visibility (477.6 points), driven by the strongest on-track performance of any sponsor (4 wins, 11 top-5s in 20 sponsored races)
-- Best-sourced, medium-confidence cost estimate of the group — but at roughly 3.7x Cheddar's estimated cost
+- Best-sourced, medium-confidence cost estimate of the group, but at roughly 3.7x Cheddar's estimated cost
 
 **Castrol** is a smaller, well-sourced hedge if Cheddar's cost verification comes back unfavorable, though it is no longer a standout on either visibility or efficiency once restricted to its actual 11 sponsored races.
 
 ### Recommended Next Steps
 
-1. Verify the Cheddar's Scratch Kitchen cost estimate directly (a quote or a better-sourced comparable) — it's the single number that could flip this recommendation.
+1. Verify the Cheddar's Scratch Kitchen cost estimate directly (a quote or a better-sourced comparable). It's the single number that could flip this recommendation.
 2. Run a sentiment check on the Kyle Busch Reddit/YouTube corpus to confirm the visibility is net-positive before pitching this externally.
 3. Revisit the ranking once Cheddar's and Castrol (both under 12 tracked races) have accumulated more races, to confirm the efficiency lead holds up beyond the current small sample.
 
@@ -128,10 +128,10 @@ how much weight either should carry in future live monitoring.
 ## Important Caveats
 
 This analysis relies on **estimated sponsorship costs** derived from industry publications.
-Actual costs may vary significantly from estimates — Cheddar's Scratch Kitchen's estimate
+Actual costs may vary significantly from estimates. Cheddar's Scratch Kitchen's estimate
 in particular carries low-medium confidence with no disclosed source for this specific deal. Rankings are sensitive to:
 
-- Cost estimate accuracy (tested with sensitivity analysis) — Cheddar's efficiency lead could shrink or disappear if true cost exceeds ~$7M
+- Cost estimate accuracy (tested with sensitivity analysis): Cheddar's efficiency lead could shrink or disappear if true cost exceeds ~$7M
 - Small sample sizes for Castrol (11 races) and Cheddar's Scratch Kitchen (12 races), which widen the uncertainty on their numbers relative to Progressive (20), Busch Light (25), and Love's Travel Stops (29)
 - Weight configuration choices (model is nominally robust to weight changes, though this mostly reflects large gaps between sponsors' scores rather than fine-grained model calibration)
 - 2025-2026 season-specific patterns (may not generalize to future seasons)
@@ -169,7 +169,7 @@ This analysis draws on four primary data categories collected for the 2025 NASCA
 - Web scraper built with BeautifulSoup, pulling race-by-race result pages
 - No missing race records for tracked sponsors
 - Primary sponsor identification uses the per-race sponsor field, matched
-  against each tracked driver's sponsor keywords for that specific race —
+  against each tracked driver's sponsor keywords for that specific race,
   not a driver's full-season assignment
 
 ### Social Media Data
@@ -258,7 +258,7 @@ into a single metric for sponsor comparison. The model is designed to answer:
 
 | Category | Weight | Components | Rationale |
 |----------|--------|------------|-----------|
-| **Race Performance** | 40% | Laps led (40%) | On-track dominance drives camera time and attention. Laps led is used instead of finish position because the two are highly collinear, and laps led showed the stronger relationship with visibility in EDA — including both would double-count the same signal. |
+| **Race Performance** | 40% | Laps led (40%) | On-track dominance drives camera time and attention. Laps led is used instead of finish position because the two are highly collinear, and laps led showed the stronger relationship with visibility in EDA. Including both would double-count the same signal. |
 | **Visibility Index** | 50% | Reddit mentions, YouTube views, and weighted news mentions, combined via PCA | Captures total cross-channel exposure using data-driven relative weights between channels, rather than an analyst hand-picking a split between Reddit/YouTube/news |
 | **Special Events** | 10% | Race wins (6%), Playoff races (4%) | Wins and playoff races generate disproportionate visibility spikes that a smooth performance metric alone would miss |
 
@@ -282,7 +282,7 @@ The 50% Visibility Index is itself a composite, built as follows:
 
 Continuous inputs (laps led and the visibility index) are z-score standardized
 rather than min-max normalized, so a single outlier race doesn't compress the
-rest of the scale — laps led in particular is heavily skewed, with most races
+rest of the scale. Laps led in particular is heavily skewed, with most races
 recording 0 laps led and a handful recording 200+.
 
 Binary flags (`is_win`, `is_playoff`) are kept as plain 0/1 indicators rather
@@ -298,7 +298,7 @@ variable individually before combining.
 
 - **Finish position** is tracked in the scoring configuration but carries
   zero effective weight in the final model, for the collinearity reason
-  described above — laps led carries the race-performance signal instead.
+  described above: laps led carries the race-performance signal instead.
 - **Wins** are defined as a 1st-place finish.
 - **Playoff races** are races 27-36, matching NASCAR's actual 10-race
   playoff window.
@@ -348,7 +348,7 @@ model validation in the statistical sense.
   widest swings.
 - **1 high-severity**: 3 race-sponsor combinations score at or near zero.
   These are races where a sponsor's car had no laps led, no win, no playoff
-  bonus, and no media mentions that week — the model's theoretical floor,
+  bonus, and no media mentions that week: the model's theoretical floor,
   not a data quality issue.
 
 ### 2.4.2 Weight Sensitivity Testing
@@ -369,7 +369,7 @@ in all four scenarios (Progressive #1, Castrol #4, Busch Light #5, Love's
 Travel Stops last among the comparison groups). Cheddar's Scratch Kitchen
 was the only tracked sponsor whose rank moved, swinging between #2 and #3
 depending on how much weight a scenario gives to race performance versus
-media visibility — consistent with its actual profile of strong Reddit/
+media visibility. That's consistent with its actual profile of strong Reddit/
 YouTube engagement paired with minimal on-track dominance (39 laps led
 across 12 races, the second-lowest of the five tracked sponsors).
 
@@ -377,7 +377,7 @@ across 12 races, the second-lowest of the five tracked sponsors).
 sponsors are large (Progressive at 477.6 points vs. Love's Travel Stops at
 71.0), so almost any reasonable reweighting preserves the same broad
 ordering. Rank stability here demonstrates that the sponsor gaps are large,
-not that the model's internal weight calibration is finely tuned — a
+not that the model's internal weight calibration is finely tuned. A
 smaller, more closely-matched sponsor set would likely show more rank
 movement under the same weight changes.
 
@@ -414,7 +414,7 @@ estimate borrows Castrol's own sourced per-race rate rather than a disclosed
 figure for the Cheddar's/RCR deal specifically.
 
 **Impact**: Efficiency rankings could shift if actual costs differ significantly
-from estimates — Cheddar's efficiency lead over Progressive is the primary
+from estimates. Cheddar's efficiency lead over Progressive is the primary
 recommendation's single largest point of uncertainty.
 
 **Mitigation**: Tested efficiency rankings with low, mid, and high cost estimates
@@ -428,7 +428,7 @@ roughly a third of the tracked races that Love's Travel Stops (29) has, and
 under half of Busch Light (25).
 
 **Impact**: A single strong or weak week moves these two sponsors' season
-totals substantially more than it would for the higher-race-count sponsors —
+totals substantially more than it would for the higher-race-count sponsors:
 both show the highest score volatility of the five (CV = 0.90 and 1.42
 respectively, see Section 2.4 anomaly detection).
 
@@ -512,7 +512,7 @@ team on a partial-season deal rather than a marquee, full-season primary.
 | Castrol | 108.3 | #4 | 24.1 | #3 | $4.5M |
 | Love's Travel Stops | 71.0 | #5 | 15.8 | #4 | $4.5M |
 
-Cheddar's is not a "cheap but small" pick — it's #2 in total visibility,
+Cheddar's is not a "cheap but small" pick. It's #2 in total visibility,
 trailing only Progressive, which costs roughly 3.7x as much. Its efficiency
 lead over the next-best sponsor (Progressive) is roughly 1.5x.
 
@@ -537,7 +537,7 @@ playoff-window races (races 27-36) as prime, high-value activation windows,
 not just "more of the same, but with higher stakes."
 
 By contrast, "wins and top-5s generate more visibility than other finishes"
-is not, by itself, a useful headline finding — no one sponsoring a race car
+is not, by itself, a useful headline finding: no one sponsoring a race car
 expects otherwise. Its value here is calibrating the scoring model's
 special-events weighting (Section 2.3), not as a stakeholder-facing insight.
 
@@ -556,7 +556,7 @@ this sample size:
 YouTube and news readings are directionally consistent with Reddit but not
 statistically distinguishable from noise at this sample size. This is a real
 constraint on how much weight either should carry in a future live
-monitoring dashboard — Reddit should be weighted most heavily, with YouTube
+monitoring dashboard. Reddit should be weighted most heavily, with YouTube
 and news treated as confirmatory rather than primary signals.
 
 ## 3.4 Finding: On-Track Performance and Visibility Move Together, But Not Proportionally
@@ -571,7 +571,7 @@ and news treated as confirmatory rather than primary signals.
 
 Progressive is the only tracked sponsor with any wins in the window, and its
 average finish (10.6) is more than 7 spots better than the next-closest
-sponsor — consistent with its #1 visibility rank. But the relationship
+sponsor, consistent with its #1 visibility rank. But the relationship
 flattens out below that: Cheddar's, Castrol, and Busch Light post similar
 average finishes (17.5-18.9) yet materially different visibility totals
 (195.6, 108.3, 177.0), meaning on-track performance alone does not fully
@@ -629,7 +629,7 @@ certainty over efficiency.
 
 1. **Highest total visibility by a wide margin**: 477.6 points, driven by
    the strongest on-track performance of any tracked sponsor (4 wins, 11
-   top-5s in 20 races — a 55% top-5 rate).
+   top-5s in 20 races, a 55% top-5 rate).
 2. **Best-sourced cost estimate of the group**: medium confidence, versus
    Cheddar's low-medium confidence.
 
@@ -643,7 +643,7 @@ upgrade rather than an efficiency upgrade. Right choice if budget certainty
 and maximum reach matter more than return per dollar.
 
 If Cheddar's cost verification comes back unfavorable, **Castrol** is the
-well-sourced middle option (see Section 4.3, Scenario C) — smaller sample
+well-sourced middle option (see Section 4.3, Scenario C), a smaller sample
 (11 races) but a sourced, medium-confidence cost estimate and reasonable
 efficiency (24.1 pts/$M).
 
@@ -690,7 +690,7 @@ cost verification comes back unfavorable
 
 For NY Racing's current situation, we recommend **Scenario B (Cheddar's
 Scratch Kitchen)** as the lead option, with **Scenario C (Castrol)** as the
-fallback — see Section 4.1/4.2 for the full reasoning.
+fallback. See Section 4.1/4.2 for the full reasoning.
 
 ---
 
@@ -700,7 +700,7 @@ fallback — see Section 4.1/4.2 for the full reasoning.
 
 1. **Immediate**: Request a direct cost quote (or a better-sourced
    comparable) for the Cheddar's Scratch Kitchen / Kyle Busch / RCR No. 8
-   deal — the single number that could flip this recommendation.
+   deal. It's the single number that could flip this recommendation.
 2. **Short-term (1-2 weeks)**: Run a sentiment check on the Kyle Busch
    Reddit/YouTube corpus (`sentiment_analysis.ipynb`) to confirm the
    visibility is net-positive before pitching this externally.
@@ -742,8 +742,7 @@ For future sponsorship evaluation, apply this framework:
 | 6 | Run sensitivity test | Stability assessment |
 | 7 | Make recommendation | Decision document |
 
-This methodology can be applied to evaluate future sponsorship opportunities
-using the same analytical framework.
+Future sponsorship decisions can reuse this same framework.
 
 ---
 
@@ -769,7 +768,7 @@ using the same analytical framework.
 | Love's Travel Stops       |               71   |                 5 |        4.5 |         15.8 |          63362.9 |                 4 | medium       |
 | Busch Light               |              177   |                 3 |       13   |         13.6 |          73451.8 |                 5 | low-medium   |
 
-### Weight Sensitivity — Rank Stability
+### Weight Sensitivity and Rank Stability
 
 | Sponsor | Min Rank | Max Rank | Rank Range |
 |---|---|---|---|
@@ -854,7 +853,7 @@ untracked "Other/Unknown" bucket) moved at all.
 }
 ```
 
-### Weighting Rationale — Design Decisions
+### Weighting Rationale and Design Decisions
 
 ### Why not equal weights?
 
@@ -870,7 +869,7 @@ outliers, especially given the small samples for Castrol and Cheddar's
 Scratch Kitchen; and would be harder to explain to stakeholders than a
 transparent, fixed weighting scheme. The hybrid approach used here (fixed
 category weights, with PCA determining the data-driven split *within* the
-visibility index — see Section 2.3) balances transparency against letting
+visibility index, see Section 2.3) balances transparency against letting
 the data speak within the media-channel category.
 
 ---
