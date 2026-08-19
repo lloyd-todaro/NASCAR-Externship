@@ -1,0 +1,151 @@
+race_number,race_name,race_date,primary_sponsor,finish_position,laps_led,reddit_mention_count,youtube_total_view_count,youtube_total_duration_seconds,youtube_total_like_count,num_youtube_videos,driver_search_interest,sponsor_search_interest,news_total_mentions,news_primary_mentions,news_weighted_mentions,news_secondary_mentions,news_passing_mentions,merge_key
+1,2025 Daytona 500,2025-02-16,Busch Light,40,0,6.0,109233.0,3463.0,2241.0,7.0,13.0,18.0,1.0,0.0,0.6,0.0,1.0,1_Busch Light
+1,2025 Daytona 500,2025-02-16,Love's Travel Stops,27,0,4.0,25922.0,4674.0,1321.0,10.0,100.0,22.0,0.0,0.0,0.0,0.0,0.0,1_Love's Travel Stops
+1,2025 Daytona 500,2025-02-16,Other/Unknown,1,202,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,1_Other/Unknown
+2,2025 Ambetter Health 400,2025-02-23,Cheddar's Scratch Kitchen,7,13,14.0,35090.0,345.0,668.0,1.0,,,0.0,0.0,0.0,0.0,0.0,2_Cheddar's Scratch Kitchen
+2,2025 Ambetter Health 400,2025-02-23,Other/Unknown,1,253,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,2_Other/Unknown
+3,2025 EchoPark Automotive Grand Prix,2025-03-02,Busch Light,12,0,8.0,126610.0,4461.0,2759.0,8.0,6.0,19.0,0.0,0.0,0.0,0.0,0.0,3_Busch Light
+3,2025 EchoPark Automotive Grand Prix,2025-03-02,Castrol,15,0,8.0,131971.0,1222.0,6782.0,2.0,6.0,24.0,0.0,0.0,0.0,0.0,0.0,3_Castrol
+3,2025 EchoPark Automotive Grand Prix,2025-03-02,Love's Travel Stops,10,0,6.0,25462.0,4223.0,1315.0,10.0,38.0,24.0,0.0,0.0,0.0,0.0,0.0,3_Love's Travel Stops
+3,2025 EchoPark Automotive Grand Prix,2025-03-02,Other/Unknown,1,95,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,3_Other/Unknown
+4,2025 Shriners Childrens 500,2025-03-09,Other/Unknown,1,312,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,4_Other/Unknown
+5,2025 Pennzoil 400,2025-03-16,Castrol,11,0,3.0,131971.0,1222.0,6782.0,2.0,3.0,25.0,1.0,0.0,0.6,0.0,1.0,5_Castrol
+5,2025 Pennzoil 400,2025-03-16,Love's Travel Stops,29,0,2.0,25701.0,4023.0,1316.0,10.0,29.0,22.0,0.0,0.0,0.0,0.0,0.0,5_Love's Travel Stops
+5,2025 Pennzoil 400,2025-03-16,Other/Unknown,1,267,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,5_Other/Unknown
+6,2025 Straight Talk Wireless 400,2025-03-23,Love's Travel Stops,30,0,1.0,25922.0,4674.0,1321.0,10.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,6_Love's Travel Stops
+6,2025 Straight Talk Wireless 400,2025-03-23,Other/Unknown,1,252,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,6_Other/Unknown
+6,2025 Straight Talk Wireless 400,2025-03-23,Progressive,5,15,6.0,247034.0,3136.0,4014.0,7.0,1.0,77.0,1.0,0.0,0.6,1.0,0.0,6_Progressive
+7,2025 Cook Out 400,2025-03-30,Other/Unknown,2,126,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,7_Other/Unknown
+7,2025 Cook Out 400,2025-03-30,Progressive,1,274,15.0,247036.0,3136.0,4014.0,7.0,2.0,80.0,2.0,2.0,1.6,0.0,0.0,7_Progressive
+8,2025 Goodyear 400,2025-04-06,Busch Light,7,0,4.0,168493.0,3906.0,3432.0,7.0,3.0,17.0,0.0,0.0,0.0,0.0,0.0,8_Busch Light
+8,2025 Goodyear 400,2025-04-06,Castrol,33,0,5.0,194569.0,1222.0,7488.0,3.0,2.0,25.0,0.0,0.0,0.0,0.0,0.0,8_Castrol
+8,2025 Goodyear 400,2025-04-06,Cheddar's Scratch Kitchen,10,0,13.0,35090.0,345.0,668.0,1.0,,,0.0,0.0,0.0,0.0,0.0,8_Cheddar's Scratch Kitchen
+8,2025 Goodyear 400,2025-04-06,Other/Unknown,1,297,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,8_Other/Unknown
+9,2025 Food City 500,2025-04-13,Busch Light,7,0,8.0,126610.0,4461.0,2759.0,8.0,2.0,55.5,0.0,0.0,0.0,0.0,0.0,9_Busch Light
+9,2025 Food City 500,2025-04-13,Cheddar's Scratch Kitchen,14,0,11.0,57794.0,960.0,1068.0,5.0,,,0.0,0.0,0.0,0.0,0.0,9_Cheddar's Scratch Kitchen
+9,2025 Food City 500,2025-04-13,Love's Travel Stops,35,0,2.0,21681.0,3289.0,1192.0,8.0,0.0,17.5,0.0,0.0,0.0,0.0,0.0,9_Love's Travel Stops
+9,2025 Food City 500,2025-04-13,Other/Unknown,1,500,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,9_Other/Unknown
+9,2025 Food City 500,2025-04-13,Progressive,2,0,12.0,247036.0,3136.0,4014.0,7.0,0.5,76.5,1.0,0.0,0.6,1.0,0.0,9_Progressive
+10,2025 Jack Links 500,2025-04-27,Love's Travel Stops,16,0,3.0,26172.0,5228.0,1332.0,10.0,22.0,30.0,0.0,0.0,0.0,0.0,0.0,10_Love's Travel Stops
+10,2025 Jack Links 500,2025-04-27,Other/Unknown,1,181,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,10_Other/Unknown
+10,2025 Jack Links 500,2025-04-27,Progressive,21,7,8.0,247036.0,3136.0,4014.0,7.0,1.0,77.0,1.0,0.0,0.6,0.0,1.0,10_Progressive
+11,2025 Wurth 400 Presented by LIQUI MOLY,2025-05-04,Love's Travel Stops,11,4,2.0,25922.0,4674.0,1321.0,10.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,11_Love's Travel Stops
+11,2025 Wurth 400 Presented by LIQUI MOLY,2025-05-04,Other/Unknown,1,266,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,11_Other/Unknown
+11,2025 Wurth 400 Presented by LIQUI MOLY,2025-05-04,Progressive,38,1,8.0,239049.0,2159.0,4259.0,6.0,1.0,82.0,0.0,0.0,0.0,0.0,0.0,11_Progressive
+12,2025 AdventHealth 400,2025-05-11,Busch Light,18,0,8.0,66286.0,3678.0,1582.0,7.0,4.0,60.5,3.0,0.0,1.7999999999999998,2.0,1.0,12_Busch Light
+12,2025 AdventHealth 400,2025-05-11,Love's Travel Stops,12,0,3.0,25922.0,4674.0,1321.0,10.0,0.0,26.5,0.0,0.0,0.0,0.0,0.0,12_Love's Travel Stops
+12,2025 AdventHealth 400,2025-05-11,Other/Unknown,1,265,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,12_Other/Unknown
+12,2025 AdventHealth 400,2025-05-11,Progressive,36,2,18.0,247037.0,3136.0,4014.0,7.0,1.0,74.0,1.0,1.0,0.8,0.0,0.0,12_Progressive
+13,2025 Coca-Cola 600,2025-05-25,Other/Unknown,1,400,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,13_Other/Unknown
+14,2025 Cracker Barrel 400,2025-06-01,Busch Light,11,0,7.0,109233.0,3463.0,2241.0,7.0,6.0,55.0,0.0,0.0,0.0,0.0,0.0,14_Busch Light
+14,2025 Cracker Barrel 400,2025-06-01,Love's Travel Stops,22,0,2.0,25922.0,4674.0,1321.0,10.0,0.0,26.0,0.0,0.0,0.0,0.0,0.0,14_Love's Travel Stops
+14,2025 Cracker Barrel 400,2025-06-01,Other/Unknown,1,221,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,14_Other/Unknown
+14,2025 Cracker Barrel 400,2025-06-01,Progressive,3,79,11.0,308608.0,3136.0,4831.0,10.0,2.0,78.0,0.0,0.0,0.0,0.0,0.0,14_Progressive
+15,2025 Firekeepers Casino 400,2025-06-08,Busch Light,6,0,4.0,109232.0,3463.0,2241.0,7.0,6.0,47.0,1.0,0.0,0.6,1.0,0.0,15_Busch Light
+15,2025 Firekeepers Casino 400,2025-06-08,Other/Unknown,1,200,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,15_Other/Unknown
+16,2025 Viva Mexico 250,2025-06-15,Castrol,25,0,3.0,131971.0,1222.0,6782.0,2.0,2.0,23.0,0.0,0.0,0.0,0.0,0.0,16_Castrol
+16,2025 Viva Mexico 250,2025-06-15,Other/Unknown,1,100,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,16_Other/Unknown
+17,2025 The Great American Getaway 400,2025-06-22,Busch Light,26,0,3.0,109232.0,3463.0,2241.0,7.0,6.0,41.0,0.0,0.0,0.0,0.0,0.0,17_Busch Light
+17,2025 The Great American Getaway 400,2025-06-22,Other/Unknown,1,128,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,17_Other/Unknown
+17,2025 The Great American Getaway 400,2025-06-22,Progressive,2,32,10.0,247036.0,3136.0,4014.0,7.0,1.0,82.0,0.0,0.0,0.0,0.0,0.0,17_Progressive
+18,2025 Quaker State 400,2025-06-28,Other/Unknown,1,260,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,18_Other/Unknown
+19,2025 Grant Park 165,2025-07-06,Busch Light,10,0,6.0,110765.0,4199.0,2288.0,8.0,15.0,30.0,1.0,0.0,0.6,1.0,0.0,19_Busch Light
+19,2025 Grant Park 165,2025-07-06,Other/Unknown,1,75,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,19_Other/Unknown
+19,2025 Grant Park 165,2025-07-06,Progressive,4,0,8.0,247037.0,3136.0,4014.0,7.0,1.0,83.0,0.0,0.0,0.0,0.0,0.0,19_Progressive
+20,2025 Toyota Save Mart 350,2025-07-13,Castrol,11,0,5.0,0.0,0.0,0.0,0.0,3.0,30.0,1.0,0.0,0.6,0.0,1.0,20_Castrol
+20,2025 Toyota Save Mart 350,2025-07-13,Love's Travel Stops,22,0,3.0,0.0,0.0,0.0,0.0,0.0,32.0,1.0,0.0,0.6,0.0,1.0,20_Love's Travel Stops
+20,2025 Toyota Save Mart 350,2025-07-13,Other/Unknown,1,110,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,20_Other/Unknown
+21,2025 Autotrader EchoPark Automotive 400,2025-07-20,Cheddar's Scratch Kitchen,11,0,12.0,167620.0,960.0,2870.0,4.0,,,0.0,0.0,0.0,0.0,0.0,21_Cheddar's Scratch Kitchen
+21,2025 Autotrader EchoPark Automotive 400,2025-07-20,Love's Travel Stops,25,0,3.0,0.0,0.0,0.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,21_Love's Travel Stops
+21,2025 Autotrader EchoPark Automotive 400,2025-07-20,Other/Unknown,2,340,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,21_Other/Unknown
+21,2025 Autotrader EchoPark Automotive 400,2025-07-20,Progressive,1,67,10.0,66406.0,0.0,771.0,1.0,2.0,90.0,2.0,1.0,1.4,1.0,0.0,21_Progressive
+22,2025 Brickyard 400,2025-07-27,Busch Light,39,0,7.0,109233.0,3463.0,2241.0,7.0,5.0,21.0,0.0,0.0,0.0,0.0,0.0,22_Busch Light
+22,2025 Brickyard 400,2025-07-27,Other/Unknown,1,167,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,22_Other/Unknown
+22,2025 Brickyard 400,2025-07-27,Progressive,3,1,12.0,247037.0,3136.0,4014.0,7.0,1.0,91.0,0.0,0.0,0.0,0.0,0.0,22_Progressive
+23,2025 Iowa Corn 350,2025-08-03,Busch Light,11,0,3.0,0.0,0.0,0.0,0.0,4.0,21.0,1.0,0.0,0.6,0.0,1.0,23_Busch Light
+23,2025 Iowa Corn 350,2025-08-03,Cheddar's Scratch Kitchen,20,0,7.0,35090.0,345.0,668.0,1.0,,,1.0,0.0,0.6,0.0,1.0,23_Cheddar's Scratch Kitchen
+23,2025 Iowa Corn 350,2025-08-03,Love's Travel Stops,34,0,1.0,0.0,0.0,0.0,0.0,31.0,41.0,1.0,0.0,0.6,0.0,1.0,23_Love's Travel Stops
+23,2025 Iowa Corn 350,2025-08-03,Other/Unknown,1,350,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,23_Other/Unknown
+24,2025 Go Bowling at The Glen,2025-08-10,Busch Light,10,0,5.0,0.0,0.0,0.0,0.0,3.0,18.0,0.0,0.0,0.0,0.0,0.0,24_Busch Light
+24,2025 Go Bowling at The Glen,2025-08-10,Other/Unknown,1,90,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,24_Other/Unknown
+24,2025 Go Bowling at The Glen,2025-08-10,Progressive,25,0,10.0,203795.0,3368.0,3082.0,7.0,0.0,80.0,0.0,0.0,0.0,0.0,0.0,24_Progressive
+25,2025 Cook Out 400,2025-08-16,Love's Travel Stops,25,0,1.0,0.0,0.0,0.0,0.0,0.0,41.0,0.0,0.0,0.0,0.0,0.0,25_Love's Travel Stops
+25,2025 Cook Out 400,2025-08-16,Other/Unknown,1,400,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,25_Other/Unknown
+25,2025 Cook Out 400,2025-08-16,Progressive,10,0,12.0,0.0,0.0,0.0,0.0,1.0,80.0,0.0,0.0,0.0,0.0,0.0,25_Progressive
+26,2025 Coke Zero Sugar 400,2025-08-23,Cheddar's Scratch Kitchen,33,0,7.0,0.0,0.0,0.0,0.0,,,2.0,0.0,1.2,0.0,2.0,26_Cheddar's Scratch Kitchen
+26,2025 Coke Zero Sugar 400,2025-08-23,Other/Unknown,1,160,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,26_Other/Unknown
+27,2025 Southern 500,2025-08-31,Busch Light,11,3,3.0,183.0,545.0,6.0,1.0,3.0,17.0,0.0,0.0,0.0,0.0,0.0,27_Busch Light
+27,2025 Southern 500,2025-08-31,Other/Unknown,1,364,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,27_Other/Unknown
+28,2025 Enjoy Illinois 300,2025-09-07,Busch Light,24,0,6.0,0.0,0.0,0.0,0.0,2.0,14.0,1.0,0.0,0.6,0.0,1.0,28_Busch Light
+28,2025 Enjoy Illinois 300,2025-09-07,Other/Unknown,2,165,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,28_Other/Unknown
+28,2025 Enjoy Illinois 300,2025-09-07,Progressive,1,75,7.0,0.0,0.0,0.0,0.0,1.0,77.0,4.0,3.0,2.6,1.0,0.0,28_Progressive
+29,2025 Bass Pro Shops Night Race,2025-09-13,Castrol,2,33,5.0,0.0,0.0,0.0,0.0,3.0,22.0,0.0,0.0,0.0,0.0,0.0,29_Castrol
+29,2025 Bass Pro Shops Night Race,2025-09-13,Love's Travel Stops,24,0,1.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,29_Love's Travel Stops
+29,2025 Bass Pro Shops Night Race,2025-09-13,Other/Unknown,1,467,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,29_Other/Unknown
+30,2025 Mobil 1 301,2025-09-21,Other/Unknown,1,301,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,30_Other/Unknown
+30,2025 Mobil 1 301,2025-09-21,Progressive,12,0,11.0,0.0,0.0,0.0,0.0,1.0,83.0,0.0,0.0,0.0,0.0,0.0,30_Progressive
+31,2025 Hollywood Casino 400,2025-09-28,Cheddar's Scratch Kitchen,19,0,10.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,31_Cheddar's Scratch Kitchen
+31,2025 Hollywood Casino 400,2025-09-28,Other/Unknown,1,273,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,31_Other/Unknown
+32,2025 Bank of America ROVAL 400,2025-10-05,Busch Light,21,0,9.0,0.0,0.0,0.0,0.0,6.0,17.0,0.0,0.0,0.0,0.0,0.0,32_Busch Light
+32,2025 Bank of America ROVAL 400,2025-10-05,Castrol,35,0,8.0,0.0,0.0,0.0,0.0,1.0,23.0,0.0,0.0,0.0,0.0,0.0,32_Castrol
+32,2025 Bank of America ROVAL 400,2025-10-05,Love's Travel Stops,17,0,3.0,0.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,32_Love's Travel Stops
+32,2025 Bank of America ROVAL 400,2025-10-05,Other/Unknown,1,109,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,32_Other/Unknown
+32,2025 Bank of America ROVAL 400,2025-10-05,Progressive,23,0,11.0,301542.0,3481.0,4485.0,8.0,1.0,79.0,0.0,0.0,0.0,0.0,0.0,32_Progressive
+33,2025 South Point 400,2025-10-12,Love's Travel Stops,21,1,2.0,0.0,0.0,0.0,0.0,43.0,36.0,2.0,0.0,1.2,0.0,2.0,33_Love's Travel Stops
+33,2025 South Point 400,2025-10-12,Other/Unknown,1,266,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,33_Other/Unknown
+34,2025 Yellawood 500,2025-10-19,Busch Light,13,3,4.0,0.0,0.0,0.0,0.0,3.0,15.0,1.0,0.0,0.6,0.0,1.0,34_Busch Light
+34,2025 Yellawood 500,2025-10-19,Cheddar's Scratch Kitchen,19,26,2.0,500092.0,510.0,8708.0,3.0,,,2.0,0.0,1.2,0.0,2.0,34_Cheddar's Scratch Kitchen
+34,2025 Yellawood 500,2025-10-19,Love's Travel Stops,2,11,5.0,0.0,0.0,0.0,0.0,62.0,42.0,1.0,0.0,0.6,1.0,0.0,34_Love's Travel Stops
+34,2025 Yellawood 500,2025-10-19,Other/Unknown,1,153,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,34_Other/Unknown
+35,2025 Xfinity 500,2025-10-26,Other/Unknown,1,500,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,35_Other/Unknown
+36,2025 Cup Series Championship,2025-11-02,Busch Light,13,0,53.0,2081.0,484.0,22.0,1.0,1.8666666666666667,14.133333333333333,1.0,0.0,0.6,0.0,1.0,36_Busch Light
+36,2025 Cup Series Championship,2025-11-02,Castrol,2,6,71.0,0.0,0.0,0.0,0.0,2.8666666666666667,26.866666666666667,1.0,0.0,0.6,1.0,0.0,36_Castrol
+36,2025 Cup Series Championship,2025-11-02,Cheddar's Scratch Kitchen,5,0,118.0,517351.0,510.0,8986.0,5.0,,,0.0,0.0,0.0,0.0,0.0,36_Cheddar's Scratch Kitchen
+36,2025 Cup Series Championship,2025-11-02,Love's Travel Stops,22,0,37.0,0.0,0.0,0.0,0.0,1.3333333333333333,49.53333333333333,0.0,0.0,0.0,0.0,0.0,36_Love's Travel Stops
+36,2025 Cup Series Championship,2025-11-02,Other/Unknown,1,105,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,36_Other/Unknown
+36,2025 Cup Series Championship,2025-11-02,Progressive,6,208,142.0,265671.0,2512.0,5684.0,7.0,2.533333333333333,80.4,2.0,1.0,1.2,1.0,0.0,36_Progressive
+37,2026 Daytona 500,2026-02-15,Busch Light,20,12,7.0,0.0,0.0,0.0,0.0,8.0,17.0,0.0,0.0,0.0,0.0,0.0,37_Busch Light
+37,2026 Daytona 500,2026-02-15,Castrol,5,0,4.0,0.0,0.0,0.0,0.0,13.0,30.0,2.0,1.0,1.2,0.0,1.0,37_Castrol
+37,2026 Daytona 500,2026-02-15,Love's Travel Stops,39,1,3.0,25922.0,4674.0,1321.0,10.0,47.0,50.0,1.0,0.0,0.6,0.0,1.0,37_Love's Travel Stops
+37,2026 Daytona 500,2026-02-15,Other/Unknown,1,187,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,37_Other/Unknown
+38,2026 Autotrader 400,2026-02-22,Cheddar's Scratch Kitchen,34,0,8.0,134053.0,351.0,2186.0,5.0,,,0.0,0.0,0.0,0.0,0.0,38_Cheddar's Scratch Kitchen
+38,2026 Autotrader 400,2026-02-22,Love's Travel Stops,25,0,2.0,0.0,0.0,0.0,0.0,31.0,55.0,0.0,0.0,0.0,0.0,0.0,38_Love's Travel Stops
+38,2026 Autotrader 400,2026-02-22,Other/Unknown,1,271,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,38_Other/Unknown
+39,2026 DuraMax Texas Grand Prix,2026-03-01,Busch Light,35,4,5.0,0.0,0.0,0.0,0.0,4.0,16.0,0.0,0.0,0.0,0.0,0.0,39_Busch Light
+39,2026 DuraMax Texas Grand Prix,2026-03-01,Love's Travel Stops,21,0,2.0,0.0,0.0,0.0,0.0,21.0,44.0,0.0,0.0,0.0,0.0,0.0,39_Love's Travel Stops
+39,2026 DuraMax Texas Grand Prix,2026-03-01,Other/Unknown,1,91,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,39_Other/Unknown
+40,2026 Straight Talk Wireless 500,2026-03-08,Other/Unknown,1,312,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,40_Other/Unknown
+41,2026 Pennzoil 400,2026-03-15,Cheddar's Scratch Kitchen,28,0,4.0,3393.0,0.0,79.0,2.0,,,0.0,0.0,0.0,0.0,0.0,41_Cheddar's Scratch Kitchen
+41,2026 Pennzoil 400,2026-03-15,Love's Travel Stops,34,0,2.0,0.0,0.0,0.0,0.0,24.0,37.0,0.0,0.0,0.0,0.0,0.0,41_Love's Travel Stops
+41,2026 Pennzoil 400,2026-03-15,Other/Unknown,1,267,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,41_Other/Unknown
+42,2026 Goodyear 400,2026-03-22,Other/Unknown,1,293,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,42_Other/Unknown
+43,2026 Cook Out 400,2026-03-29,Other/Unknown,1,400,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,43_Other/Unknown
+44,2026 Food City 500,2026-04-12,Busch Light,20,0,4.0,0.0,0.0,0.0,0.0,3.0,53.0,0.0,0.0,0.0,0.0,0.0,44_Busch Light
+44,2026 Food City 500,2026-04-12,Love's Travel Stops,6,0,1.0,25922.0,4674.0,1321.0,10.0,59.0,44.0,0.0,0.0,0.0,0.0,0.0,44_Love's Travel Stops
+44,2026 Food City 500,2026-04-12,Other/Unknown,1,505,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,44_Other/Unknown
+45,2026 AdventHealth 400,2026-04-19,Busch Light,26,0,6.0,57111.0,495.0,783.0,1.0,3.0,100.0,0.0,0.0,0.0,0.0,0.0,45_Busch Light
+45,2026 AdventHealth 400,2026-04-19,Love's Travel Stops,17,0,1.0,0.0,0.0,0.0,0.0,28.0,48.0,0.0,0.0,0.0,0.0,0.0,45_Love's Travel Stops
+45,2026 AdventHealth 400,2026-04-19,Other/Unknown,1,274,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,45_Other/Unknown
+46,2026 Jack Link's 500,2026-04-26,Castrol,31,0,6.0,24865.0,385.0,756.0,1.0,3.0,58.0,1.0,0.0,0.6,1.0,0.0,46_Castrol
+46,2026 Jack Link's 500,2026-04-26,Cheddar's Scratch Kitchen,10,0,8.0,534.0,0.0,2.0,3.0,,,0.0,0.0,0.0,0.0,0.0,46_Cheddar's Scratch Kitchen
+46,2026 Jack Link's 500,2026-04-26,Love's Travel Stops,11,0,4.0,0.0,0.0,0.0,0.0,40.0,43.0,0.0,0.0,0.0,0.0,0.0,46_Love's Travel Stops
+46,2026 Jack Link's 500,2026-04-26,Other/Unknown,1,189,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,46_Other/Unknown
+47,2026 Wurth 400,2026-05-03,Love's Travel Stops,32,0,1.0,51.0,302.0,0.0,1.0,0.0,41.0,0.0,0.0,0.0,0.0,0.0,47_Love's Travel Stops
+47,2026 Wurth 400,2026-05-03,Other/Unknown,1,246,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,47_Other/Unknown
+47,2026 Wurth 400,2026-05-03,Progressive,2,21,5.0,162431.0,1893.0,1975.0,4.0,1.0,92.0,0.0,0.0,0.0,0.0,0.0,47_Progressive
+48,2026 Go Bowling at The Glen,2026-05-10,Busch Light,27,4,10.0,0.0,0.0,0.0,0.0,4.5,46.5,0.0,0.0,0.0,0.0,0.0,48_Busch Light
+48,2026 Go Bowling at The Glen,2026-05-10,Other/Unknown,1,96,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,48_Other/Unknown
+48,2026 Go Bowling at The Glen,2026-05-10,Progressive,16,0,25.0,0.0,0.0,0.0,0.0,1.5,92.0,0.0,0.0,0.0,0.0,0.0,48_Progressive
+49,2026 Coca-Cola 600,2026-05-24,Other/Unknown,1,373,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,49_Other/Unknown
+50,2026 Cracker Barrel 400,2026-05-31,Busch Light,37,0,7.0,304.0,998.0,6.0,2.0,8.0,32.0,0.0,0.0,0.0,0.0,0.0,50_Busch Light
+50,2026 Cracker Barrel 400,2026-05-31,Love's Travel Stops,20,0,4.0,0.0,0.0,0.0,0.0,50.0,66.0,0.0,0.0,0.0,0.0,0.0,50_Love's Travel Stops
+50,2026 Cracker Barrel 400,2026-05-31,Other/Unknown,2,243,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,50_Other/Unknown
+50,2026 Cracker Barrel 400,2026-05-31,Progressive,1,57,15.0,141990.0,5660.0,2027.0,12.0,2.0,100.0,0.0,0.0,0.0,0.0,0.0,50_Progressive
+51,2026 Firekeepers Casino 400,2026-06-07,Busch Light,16,1,5.0,245.0,349.0,0.0,1.0,5.0,41.0,0.0,0.0,0.0,0.0,0.0,51_Busch Light
+51,2026 Firekeepers Casino 400,2026-06-07,Love's Travel Stops,22,0,2.0,0.0,0.0,0.0,0.0,33.0,62.0,0.0,0.0,0.0,0.0,0.0,51_Love's Travel Stops
+51,2026 Firekeepers Casino 400,2026-06-07,Other/Unknown,1,199,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,51_Other/Unknown
+52,2026 Great American Getaway 400,2026-06-14,Busch Light,8,0,4.0,1.0,590.0,0.0,1.0,4.0,34.0,0.0,0.0,0.0,0.0,0.0,52_Busch Light
+52,2026 Great American Getaway 400,2026-06-14,Castrol,38,0,3.0,1190.0,985.0,10.0,2.0,4.0,56.0,1.0,0.0,0.8,0.0,1.0,52_Castrol
+52,2026 Great American Getaway 400,2026-06-14,Love's Travel Stops,19,6,2.0,0.0,0.0,0.0,0.0,51.0,59.0,0.0,0.0,0.0,0.0,0.0,52_Love's Travel Stops
+52,2026 Great American Getaway 400,2026-06-14,Other/Unknown,1,154,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,52_Other/Unknown
+53,2026 Anduril 250,2026-06-21,Other/Unknown,1,75,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,53_Other/Unknown
