@@ -2,7 +2,8 @@ config.py
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-.DS_Storeskills-lock.json
+.DS_Store
 SKILL.md
 skills-lock.json
 build_pptx.py
+presentation_script.md
